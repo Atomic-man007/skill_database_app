@@ -57,8 +57,8 @@ class ListUserComponent extends Component {
               <thead>
                 <tr>
                   <th> User Name</th>
-                  <th> User Skill</th>
                   <th> User Domain</th>
+                  <th> User Skill</th>                 
                   <th> User Years</th>
                   <th> User Level</th>
                   <th> Actions</th>
@@ -68,8 +68,8 @@ class ListUserComponent extends Component {
                 {this.state.users.map((user) => (
                   <tr key={user.id}>
                     <td> {user.Name} </td>
-                    <td> {user.Skill}</td>
                     <td> {user.Domain}</td>
+                    <td> {user.Skill}</td>
                     <td> {user.Years}</td>
                     <td> {user.Level}</td>
                     <td>

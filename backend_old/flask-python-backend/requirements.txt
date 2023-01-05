@@ -1,9 +1,0 @@
-flask
-flask-sqlalchemy
-flask-bcrypt
-python-dotenv
-flask-session
-flask_sqlalchemy
-flask_cors
-pymongo
-pyomngo[srv]

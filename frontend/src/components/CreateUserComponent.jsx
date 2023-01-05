@@ -144,8 +144,31 @@ class CreateUserComponent extends Component {
                       onChange={this.changeNameHandler}
                     />
                   </div>
+                  <label className='text-gray-600'> Domain: </label>
+                  <select
+                  value={this.state.Domain}
+                  onChange={this.changeDomainHandler}
+                  className='form-select 
+                  w-full
+                  px-3
+                  py-1.5
+                  text-base
+                  font-normal
+                  text-gray-700
+                  bg-white bg-clip-padding bg-no-repeat
+                  border border-solid border-gray-300
+                  rounded
+                  transition
+                  ease-in-out
+                  m-0
+                  focus:text-gray-700 focus:bg-white focus:border-rose-600 focus:outline-none'
+                > <option>Select Option ... </option>
+                  <option value='Leadership'>Leadership</option>
+                  <option value='Business'>Business</option>
+                  <option value='Tech'>Tech</option>
+                </select>
                   <div className='form-group'>
-                    <label className='text-gray-600'> Skill: </label>
+                    <label className='text-gray-600 pt-2'> Skill: </label>
                     <input
                       type='text'
                       required
@@ -154,18 +177,6 @@ class CreateUserComponent extends Component {
                       className='peer h-10 w-full border-b-2 text-gray-900  focus:outline-none focus:border-rose-600'
                       value={this.state.Skill}
                       onChange={this.changeSkillHandler}
-                    />
-                  </div>
-                  <div className='form-group'>
-                    <label className='text-gray-600'> Domain: </label>
-                    <input
-                      type='text'
-                      required
-                      placeholder='Please enter your Domain'
-                      name='Domain'
-                      className='peer h-10 w-full border-b-2 text-gray-900  focus:outline-none focus:border-rose-600'
-                      value={this.state.Domain}
-                      onChange={this.changeDomainHandler}
                     />
                   </div>
                   <div className='form-group'>

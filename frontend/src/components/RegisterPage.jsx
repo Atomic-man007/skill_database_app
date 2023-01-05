@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import httpClient from "./httpClient";
 import Avatar from '@mui/material/Avatar';
 import Button from '@mui/material/Button';
 import CssBaseline from '@mui/material/CssBaseline';
@@ -13,10 +12,9 @@ import HowToRegIcon from '@mui/icons-material/HowToReg';
 import Typography from '@mui/material/Typography';
 import Container from '@mui/material/Container';
 import axios from 'axios';
-
 import { createTheme, ThemeProvider } from '@mui/material/styles';
-const theme = createTheme();
 
+const theme = createTheme();
 
 const RegisterPage = () => {
   const [username, setusername] = useState("");

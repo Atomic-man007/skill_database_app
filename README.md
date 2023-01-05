@@ -2,13 +2,13 @@
 
 <h1>Run the backend application</h1>
 
-Install the dependencies using below command
+Install the dependencies using below command in backend folder
 
-**pip install flask flask_cors pymongo**
+**pip install -r requirements.txt**
 
-Run the server file using the following command. Make sure your MongoDB server is still running : 
+Run the server file using the following command in backend.
 
-**$ python3 app.py**
+**$ python run.py**
 
 Your application server will run locally at http://localhost:5000
 

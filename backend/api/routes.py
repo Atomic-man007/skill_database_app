@@ -9,7 +9,7 @@ import requests
 
 rest_api = Api(version="1.0", title="Users API")
 
-
+    
 """
     Flask-Restx models for api request and response data
 """

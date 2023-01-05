@@ -49,19 +49,20 @@ class ViewUserComponent extends Component {
               </div>
             </div>
             <div className='row'>
+            <label className='text-xl pr-3 antialiased'> User Domain: </label>
+            <div className='text-lg antialiased font-medium'>
+              {' '}
+              {this.state.user.Domain}
+            </div>
+          </div>
+            <div className='row'>
               <label className='text-xl pr-3 antialiased'> User Skill: </label>
               <div className='text-lg antialiased font-medium'>
                 {' '}
                 {this.state.user.Skill}
               </div>
             </div>
-            <div className='row'>
-              <label className='text-xl pr-3 antialiased'> User Domain: </label>
-              <div className='text-lg antialiased font-medium'>
-                {' '}
-                {this.state.user.Domain}
-              </div>
-            </div>
+
             <div className='row'>
               <label className='text-xl pr-3 antialiased'> User Years: </label>
               <div className='text-lg antialiased font-medium'>
