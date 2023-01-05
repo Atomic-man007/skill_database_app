@@ -1,0 +1,135 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 50px;
+  background-color: black;
+  text-align: center;
+  color: white;
+}
+
+.cardCustom {
+  border-radius: 25px !important;
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.349);
+}
+
+.tableCustom {
+  border-radius: 15px !important;
+  box-shadow: 0 6px 10px rgba(0, 0, 0, 0.486);
+}
+
+.customHeader {
+  font-family: 'poppins';
+  font-size: 2rem;
+  font-weight: 400;
+}
+
+.heading-secondary {
+  font-size: 220%;
+  word-spacing: 2px;
+  text-align: center;
+  letter-spacing: 1px;
+  /* text-transform: uppercase; */
+  color: rgb(245, 245, 245);
+}
+
+.heading-secondary::after {
+  display: block;
+  height: 0.2rem;
+  background-color: rgb(230, 230, 230);
+  content: ' ';
+  width: 10rem;
+  margin: 0 auto;
+  margin-top: 10px;
+}
+
+.landingMain {
+  background: url('img/Management-skills.png');
+  background-repeat: no-repeat;
+  height: 100vh;
+  width: auto;
+  /* width: 100%; */
+  background-size: cover;
+}
+/* 
+.wave {
+  position: absolute;
+  bottom: -10px;
+  left: 0;
+  line-height: 0;
+}
+
+.wave:before {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+
+  background: url('img/wave.svg') repeat-x;
+  background-size: cover;
+  background-position: -1000px 0;
+  opacity: 0.2;
+  animation: waveOne 60s linear infinite;
+}
+
+@keyframes waveOne {
+  50% {
+    background-position: 0 0;
+  }
+}
+
+.wave::after {
+  content: '';
+  position: absolute;
+  bottom: -12px;
+  left: 0;
+  width: 100%;
+  height: 100%;
+
+  background: url('img/wave.svg') repeat-x;
+  background-size: cover;
+  background-position: 2732px 0;
+  opacity: 0.3;
+  animation: waveOne 120s linear infinite;
+} */

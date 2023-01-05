@@ -1,0 +1,2 @@
+# uri: "mongodb://localhost:27017/config?authSource=admin"
+uri: "mongodb+srv://skill_database:Geology@cluster007.xddmy.mongodb.net/skill_management?authSource=admin"
