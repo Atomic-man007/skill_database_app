@@ -7,7 +7,6 @@ import Typography from '@mui/material/Typography';
 import Menu from '@mui/material/Menu';
 import MenuIcon from '@mui/icons-material/Menu';
 import Container from '@mui/material/Container';
-// ============================================
 
 // ========= Icon imports ==============================
 import DoubleArrowIcon from '@mui/icons-material/DoubleArrow';
@@ -18,8 +17,10 @@ const logo={fontSize:'50px'}
 // ===================================================
 // ===============================================
 
-const ResponsiveAppBar = () => {
+
+const Headerresponsive = () => {
   const [anchorElNav, setAnchorElNav] = React.useState(null);
+
   const handleOpenNavMenu = (event) => {
     setAnchorElNav(event.currentTarget);
   };
@@ -41,6 +42,7 @@ const ResponsiveAppBar = () => {
           >
             <DoubleArrowIcon style={logo} />
           </Typography>
+
 
           <Box sx={{ flexGrow: 1, display: { xs: 'flex', md: 'none' } }}>
             <IconButton
@@ -82,7 +84,7 @@ const ResponsiveAppBar = () => {
           >
             <DoubleArrowIcon style={{margin:'0 20px 0 0'}}/>
           </Typography>
-
+              
 
            {/*<Grid item xs={3}>
           <Box display="flex">
@@ -111,4 +113,4 @@ const ResponsiveAppBar = () => {
     </AppBar>
   );
 };
-export default ResponsiveAppBar;
+export default Headerresponsive;

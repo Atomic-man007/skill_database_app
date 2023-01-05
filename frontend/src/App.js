@@ -9,7 +9,7 @@ import CreateUserComponent from './components/CreateUserComponent';
 import LandingPage from './components/landing';
 import LoginPage from './components/LoginPage';
 import RegisterPage from './components/RegisterPage';
-import ResponsiveAppBar from './components/reg';
+import Headerresponsive from './components/Header';
 import ViewUserComponent from './components/ViewUserComponent';
 import getall from './components/GetAll';
 
@@ -17,7 +17,7 @@ function App() {
   return (
     <div>
       <Router>
-        <ResponsiveAppBar />
+        <Headerresponsive />
 
         <div className=' '>
           {/*<sidebar></sidebar> */}
@@ -34,6 +34,7 @@ function App() {
             {/* <Route path = "/update-user/:id" component = {UpdateUserComponent}></Route> */}
           </Switch>
         </div>
+        <br></br>
         {/* <FooterComponent /> */}
       </Router>
     </div>

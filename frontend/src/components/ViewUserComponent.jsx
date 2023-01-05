@@ -77,7 +77,6 @@ class ViewUserComponent extends Component {
                 {this.state.user.Level}
               </div>
             </div>
-
             <Link
               className='bg-blue-500 hover:bg-blue-700 text-white mt-4 flex items-center justify-center w-24  font-bold py-2 px-4  border border-blue-700 rounded'
               to='/users'

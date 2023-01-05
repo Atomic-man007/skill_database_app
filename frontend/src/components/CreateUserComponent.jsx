@@ -13,7 +13,7 @@ class CreateUserComponent extends Component {
       Skill: '',
       Domain: '',
       Years: '',
-      Level: 'Basic',
+      Level: '',
     };
     this.changeNameHandler = this.changeNameHandler.bind(this);
     this.changeSkillHandler = this.changeSkillHandler.bind(this);
@@ -211,6 +211,7 @@ class CreateUserComponent extends Component {
                       m-0
                       focus:text-gray-700 focus:bg-white focus:border-rose-600 focus:outline-none'
                     >
+                    <option>Select Option ... </option>
                       <option value='Basic'>Basic</option>
                       <option value='Intermediate'>Intermediate</option>
                       <option value='Expert'>Expert</option>

@@ -19,6 +19,8 @@ const theme = createTheme();
 const LoginPage = () => {
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
+  const [checked, setChecked] = useState(false);
+  const handleClick = () => setChecked(!checked)
   
   const logInUser = async () => {
     console.log(email, password);
@@ -91,6 +93,7 @@ const LoginPage = () => {
               <FormControlLabel
                 control={<Checkbox value="allowExtraEmails" color="primary" />}
                 label="Remember me"
+                onChange={handleClick}
               />
             </Grid>
           </Grid>

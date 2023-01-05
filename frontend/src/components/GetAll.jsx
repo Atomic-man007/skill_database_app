@@ -41,19 +41,23 @@ export default class PersonList extends React.Component {
 
   render() {
     return (
+      <div className='bg-gradient-to-r from-sky-400 to-indigo-400 pb-4 h-full container-xxl'>
         <MUIDataTable 
             title={"All users Data"}
             data={this.state.persons}
             columns={columns}
+            options={{
+              selectableRows: false // <===== will turn off checkboxes in rows
+            }}
             />
-    //   <ul>
-    //     {
-    //       this.state.persons
-    //         .map(person =>
-    //           <li key={person.Name}>{person.Skill}</li>
-    //         )
-    //     }
-    //   </ul>
+            <div>
+            <br></br>
+            <button className="bg-blue-500 ps-2 hover:bg-blue-700 text-white font-bold py-2 px-4 border border-blue-700 rounded" onClick={(e) => {
+              e.preventDefault();
+              window.location.href='/users';
+              }}>Go Back to users page</button>
+            </div>
+        </div>
     )
   }
 }
