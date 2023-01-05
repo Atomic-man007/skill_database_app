@@ -93,7 +93,7 @@ def data():
                 'Level': Level
             }
             dataJson.append(dataDict)
-        print(dataJson)
+        # print(dataJson)
         return jsonify(dataJson)
 
 @app.route('/users/<string:id>', methods=['GET', 'DELETE', 'PUT'])
@@ -116,7 +116,7 @@ def onedata(id):
             'Years':Years,
             'Level':Level
         }
-        print(dataDict)
+        # print(dataDict)
         return jsonify(dataDict)
         
     # DELETE a data

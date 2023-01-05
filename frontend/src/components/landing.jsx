@@ -12,16 +12,20 @@ const LandingPage = () => {
         <Grid container justifyContent='flex-start' sx={{ pl: 4 }}>
           <Grid item>
             <h3 className='decoration-sky-600 text-sky-900'>
-              Dont have an account?{' '}
+              Don't have an account?
+              <br></br>
+              Clicking below to register now{' '}
             </h3>
 
-            <Link
-              className='btn btn-outline-info outline-none mt-3'
+            <button
+              className='btn btn-primary btn-lg mt-3'
+              onClick={(e) => {
+                e.preventDefault();
+                window.location.href='/register';}}
               href='/register'
-              variant='body2'
             >
               Register
-            </Link>
+            </button>
           </Grid>
         </Grid>
         {/* <div className='wave'>
