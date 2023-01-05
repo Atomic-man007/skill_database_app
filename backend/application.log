@@ -1,0 +1,52 @@
+05-Jan-23 16:33:52 - INFO -  * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.118:5000 (Press CTRL+C to quit)
+05-Jan-23 16:33:52 - INFO -  * Restarting with watchdog (windowsapi)
+05-Jan-23 16:33:54 - WARNING -  * Debugger is active!
+05-Jan-23 16:33:54 - INFO -  * Debugger PIN: 590-057-723
+05-Jan-23 16:50:29 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\tests.py', reloading
+05-Jan-23 16:50:29 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\flask\\testing.py', reloading
+05-Jan-23 16:50:29 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\werkzeug\\test.py', reloading
+05-Jan-23 16:50:30 - INFO -  * Restarting with watchdog (windowsapi)
+05-Jan-23 16:50:33 - WARNING -  * Debugger is active!
+05-Jan-23 16:50:33 - INFO -  * Debugger PIN: 590-057-723
+05-Jan-23 16:50:38 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\tests.py', reloading
+05-Jan-23 16:50:38 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\tests.py', reloading
+05-Jan-23 16:50:38 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\tests.py', reloading
+05-Jan-23 16:50:38 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\tests.py', reloading
+05-Jan-23 16:50:40 - INFO -  * Restarting with watchdog (windowsapi)
+05-Jan-23 16:50:42 - WARNING -  * Debugger is active!
+05-Jan-23 16:50:42 - INFO -  * Debugger PIN: 590-057-723
+05-Jan-23 16:50:46 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\tests.py', reloading
+05-Jan-23 16:50:46 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\tests.py', reloading
+05-Jan-23 16:50:46 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\tests.py', reloading
+05-Jan-23 16:50:46 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\json\\__init__.py', reloading
+05-Jan-23 16:50:48 - INFO -  * Restarting with watchdog (windowsapi)
+05-Jan-23 16:50:50 - WARNING -  * Debugger is active!
+05-Jan-23 16:50:50 - INFO -  * Debugger PIN: 590-057-723
+05-Jan-23 16:50:52 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\tests.py', reloading
+05-Jan-23 16:50:52 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\tests.py', reloading
+05-Jan-23 16:50:52 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\tests.py', reloading
+05-Jan-23 16:50:52 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\tests.py', reloading
+05-Jan-23 16:50:53 - INFO -  * Restarting with watchdog (windowsapi)
+05-Jan-23 16:50:56 - WARNING -  * Debugger is active!
+05-Jan-23 16:50:56 - INFO -  * Debugger PIN: 590-057-723
+05-Jan-23 16:50:59 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\tests.py', reloading
+05-Jan-23 16:50:59 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\tests.py', reloading
+05-Jan-23 16:50:59 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\tests.py', reloading
+05-Jan-23 16:50:59 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\tests.py', reloading
+05-Jan-23 16:51:01 - INFO -  * Restarting with watchdog (windowsapi)
+05-Jan-23 16:51:03 - WARNING -  * Debugger is active!
+05-Jan-23 16:51:03 - INFO -  * Debugger PIN: 590-057-723
+05-Jan-23 16:51:20 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\tests.py', reloading
+05-Jan-23 16:51:20 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\tests.py', reloading
+05-Jan-23 16:51:20 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\tests.py', reloading
+05-Jan-23 16:51:20 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\tests.py', reloading
+05-Jan-23 16:51:21 - INFO -  * Restarting with watchdog (windowsapi)
+05-Jan-23 16:51:23 - WARNING -  * Debugger is active!
+05-Jan-23 16:51:24 - INFO -  * Debugger PIN: 590-057-723
+05-Jan-23 16:51:31 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\tests.py', reloading
+05-Jan-23 16:51:31 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\tests.py', reloading
+05-Jan-23 16:51:31 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\tests.py', reloading
+05-Jan-23 16:51:31 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\tests.py', reloading

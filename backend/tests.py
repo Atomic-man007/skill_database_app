@@ -1,12 +1,14 @@
 
 import pytest
 import json
-
+import logging
 from api import app
 
 """
    Sample test data
 """
+logging.basicConfig(filename='application_test.log', format='%(asctime)s - %(levelname)s - %(message)s', datefmt='%d-%b-%y %H:%M:%S')
+
 
 DUMMY_USERNAME = "apple"
 DUMMY_EMAIL = "apple@apple.com"
@@ -19,10 +21,10 @@ def client():
 
 def test_user_signup(client):
     """
-       Tests /users/register API
+       Tests /register API
     """
     response = client.post(
-        "api/users/register",
+        "api/register",
         data=json.dumps(
             {
                 "username": DUMMY_USERNAME,
@@ -39,10 +41,10 @@ def test_user_signup(client):
 
 def test_user_signup_invalid_data(client):
     """
-       Tests /users/register API: invalid data like email field empty
+       Tests /register API: invalid data like email field empty
     """
     response = client.post(
-        "api/users/register",
+        "api/register",
         data=json.dumps(
             {
                 "username": DUMMY_USERNAME,
@@ -59,10 +61,10 @@ def test_user_signup_invalid_data(client):
 
 def test_user_login_correct(client):
     """
-       Tests /users/signup API: Correct credentials
+       Tests /signup API: Correct credentials
     """
     response = client.post(
-        "api/users/login",
+        "api/login",
         data=json.dumps(
             {
                 "email": DUMMY_EMAIL,
@@ -78,10 +80,10 @@ def test_user_login_correct(client):
 
 def test_user_login_error(client):
     """
-       Tests /users/signup API: Wrong credentials
+       Tests /signup API: Wrong credentials
     """
     response = client.post(
-        "api/users/login",
+        "api/login",
         data=json.dumps(
             {
                 "email": DUMMY_EMAIL,

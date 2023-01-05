@@ -7,12 +7,14 @@ from bson.objectid import ObjectId
 import yaml
 from .routes import rest_api
 from .models import db
+import logging
 
 app = Flask(__name__)
 app.config.from_object('api.config.BaseConfig')
 config = yaml.load(open('database.yaml'), Loader=yaml.Loader)
 client = MongoClient(config['uri'], tls=True, tlsAllowInvalidCertificates=True)
 database = client['skill_management']
+logging.basicConfig(filename='application.log', format='%(asctime)s - %(levelname)s - %(message)s', datefmt='%d-%b-%y %H:%M:%S')
 
 
 db.init_app(app)
