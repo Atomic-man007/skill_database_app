@@ -149,3 +149,11 @@
 08-Jan-23 12:23:04 - INFO - 127.0.0.1 - - [08/Jan/2023 12:23:04] "GET /users HTTP/1.1" 200 -
 08-Jan-23 12:23:59 - INFO - 127.0.0.1 - - [08/Jan/2023 12:23:59] "GET /users HTTP/1.1" 200 -
 08-Jan-23 12:26:09 - INFO - 127.0.0.1 - - [08/Jan/2023 12:26:09] "GET /users HTTP/1.1" 200 -
+08-Jan-23 13:38:28 - INFO -  * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.118:5000 (Press CTRL+C to quit)
+08-Jan-23 13:38:28 - INFO -  * Restarting with watchdog (windowsapi)
+08-Jan-23 13:38:31 - WARNING -  * Debugger is active!
+08-Jan-23 13:38:31 - INFO -  * Debugger PIN: 587-542-207
+08-Jan-23 13:39:53 - INFO - 192.168.0.118 - - [08/Jan/2023 13:39:53] "POST /api/register HTTP/1.1" 200 -

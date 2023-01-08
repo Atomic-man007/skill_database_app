@@ -185,6 +185,9 @@ class LogoutUser(Resource):
 
         return {"success": True}, 200
 
+rest_api.add_resource(Login, '/api/login')
+rest_api.add_resource(Register, '/api/register')
+rest_api.add_resource(LogoutUser, '/api/logout')
 
 # @rest_api.route('/api/sessions/oauth/github/')
 # class GitHubLogin(Resource):
