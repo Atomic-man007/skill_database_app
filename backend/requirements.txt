@@ -25,10 +25,11 @@ pluggy==1.0.0
 py==1.11.0
 PyJWT==2.6.0
 pyrsistent==0.19.2
-pymongo
+pymongo==6.0
 pytest==7.1.2
 python-dotenv==0.19.2
 pytz==2022.6
+pyyaml
 requests==2.28.1
 six==1.16.0
 SQLAlchemy==1.4.45
