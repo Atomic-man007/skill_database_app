@@ -9,8 +9,6 @@ import Grid from '@mui/material/Grid';
 import Container from '@mui/material/Container';
 import { red } from '@mui/material/colors';
 
-// ============================================
-
 // ========= Icon imports ==============================
 import DoubleArrowIcon from '@mui/icons-material/DoubleArrow';
 // =====================================================
