@@ -1,6 +1,6 @@
 from datetime import datetime, timezone, timedelta
 from functools import wraps
-from flask import request
+from flask import request, session
 from flask_restx import Api, Resource, fields
 import jwt
 from .models import db, Users, JWTTokenBlocklist
@@ -185,52 +185,7 @@ class LogoutUser(Resource):
 
         return {"success": True}, 200
 
+
 rest_api.add_resource(Login, '/api/login')
 rest_api.add_resource(Register, '/api/register')
 rest_api.add_resource(LogoutUser, '/api/logout')
-
-# @rest_api.route('/api/sessions/oauth/github/')
-# class GitHubLogin(Resource):
-#     def get(self):
-#         code = request.args.get('code')
-#         client_id = BaseConfig.GITHUB_CLIENT_ID
-#         client_secret = BaseConfig.GITHUB_CLIENT_SECRET
-#         root_url = 'https://github.com/login/oauth/access_token'
-
-#         params = { 'client_id': client_id, 'client_secret': client_secret, 'code': code }
-
-#         data = requests.post(root_url, params=params, headers={
-#             'Content-Type': 'application/x-www-form-urlencoded',
-#         })
-
-#         response = data._content.decode('utf-8')
-#         access_token = response.split('&')[0].split('=')[1]
-
-#         user_data = requests.get('https://api.github.com/user', headers={
-#             "Authorization": "Bearer " + access_token
-#         }).json()
-        
-#         user_exists = Users.get_by_username(user_data['login'])
-#         if user_exists:
-#             user = user_exists
-#         else:
-#             try:
-#                 user = Users(username=user_data['login'], email=user_data['email'])
-#                 user.save()
-#             except:
-#                 user = Users(username=user_data['login'])
-#                 user.save()
-        
-#         user_json = user.toJSON()
-
-#         token = jwt.encode({"username": user_json['username'], 'exp': datetime.utcnow() + timedelta(minutes=30)}, BaseConfig.SECRET_KEY)
-#         user.set_jwt_auth_active(True)
-#         user.save()
-
-#         return {"success": True,
-#                 "user": {
-#                     "_id": user_json['_id'],
-#                     "email": user_json['email'],
-#                     "username": user_json['username'],
-#                     "token": token,
-#                 }}, 200

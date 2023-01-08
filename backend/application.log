@@ -228,3 +228,859 @@
 08-Jan-23 14:17:35 - WARNING -  * Debugger is active!
 08-Jan-23 14:17:35 - INFO -  * Debugger PIN: 587-542-207
 08-Jan-23 14:19:31 - INFO - 192.168.0.118 - - [08/Jan/2023 14:19:31] "POST /api/register HTTP/1.1" 200 -
+08-Jan-23 14:22:59 - INFO - 192.168.0.118 - - [08/Jan/2023 14:22:59] "POST /api/login HTTP/1.1" 200 -
+08-Jan-23 14:40:07 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\routes.py', reloading
+08-Jan-23 14:40:09 - INFO -  * Restarting with watchdog (windowsapi)
+08-Jan-23 14:40:17 - WARNING -  * Debugger is active!
+08-Jan-23 14:40:17 - INFO -  * Debugger PIN: 587-542-207
+08-Jan-23 14:51:45 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\run.py', reloading
+08-Jan-23 14:51:45 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\config.py', reloading
+08-Jan-23 14:51:45 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 14:51:47 - INFO -  * Restarting with watchdog (windowsapi)
+08-Jan-23 14:51:56 - WARNING -  * Debugger is active!
+08-Jan-23 14:51:56 - INFO -  * Debugger PIN: 587-542-207
+08-Jan-23 15:31:40 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\IPython\\display.py', reloading
+08-Jan-23 15:31:42 - INFO -  * Restarting with watchdog (windowsapi)
+08-Jan-23 15:31:47 - WARNING -  * Debugger is active!
+08-Jan-23 15:31:47 - INFO -  * Debugger PIN: 587-542-207
+08-Jan-23 15:31:49 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\certifi\\__init__.py', reloading
+08-Jan-23 15:31:49 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\certifi\\core.py', reloading
+08-Jan-23 15:31:50 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\cryptography\\__init__.py', reloading
+08-Jan-23 15:31:50 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\cryptography\\__about__.py', reloading
+08-Jan-23 15:31:51 - INFO -  * Restarting with watchdog (windowsapi)
+08-Jan-23 15:31:55 - WARNING -  * Debugger is active!
+08-Jan-23 15:31:55 - INFO -  * Debugger PIN: 587-542-207
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\huggingface_hub\\__init__.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\hydralit_components\\__init__.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\hyperframe\\__init__.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\hyperlink\\__init__.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\hyperlink\\_url.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\icecream\\__init__.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\idna\\__init__.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\imagehash\\__init__.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\imageio\\__init__.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\imagesize\\__init__.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\imagesize\\imagesize.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\imapclient\\__init__.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\imgaug\\__init__.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\importlib_metadata\\__init__.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\importlib_metadata\\_meta.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\importlib_resources\\__init__.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\importlib_resources\\_common.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\importlib_resources\\_legacy.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\importlib_resources\\abc.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\imutils\\__init__.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\incremental\\__init__.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\incremental\\_version.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\inflection\\__init__.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\iopath\\__init__.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\iopath\\common\\__init__.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\iopath\\common\\file_io.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\iopath\\tabular\\tabular_io.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\ipadic\\__init__.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\ipykernel\\__init__.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\IPython\\__init__.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\ipython_genutils\\__init__.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\ipywidgets\\__init__.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\isodate\\__init__.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\isodate\\isodates.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\isodate\\isotime.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\isodate\\isodatetime.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\isodate\\isoduration.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\isodate\\isoerror.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\isodate\\isotzinfo.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\isodate\\tzinfo.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\isodate\\duration.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\isodate\\isostrf.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\itemadapter\\__init__.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\itemloaders\\__init__.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\itsdangerous\\__init__.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\itsdangerous\\encoding.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\itsdangerous\\exc.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\itsdangerous\\serializer.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\itsdangerous\\signer.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\itsdangerous\\timed.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\itsdangerous\\url_safe.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\janome\\__init__.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\janome\\version.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\japanize_matplotlib\\__init__.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\ja_core_news_lg\\__init__.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\ja_core_news_md\\__init__.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\ja_ginza\\__init__.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\ja_ginza_electra\\__init__.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\ja_sentence_segmenter\\__init__.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\jedi\\__init__.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\jinja2\\__init__.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\jinja2\\bccache.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\jinja2\\environment.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\jinja2\\exceptions.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\jinja2\\loaders.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\jinja2\\runtime.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\jinja2\\utils.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\joblib\\__init__.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\joblib\\memory.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\joblib\\logger.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\joblib\\hashing.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\joblib\\numpy_pickle.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\joblib\\compressor.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\joblib\\parallel.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\joblib\\externals\\loky\\__init__.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\joblib\\externals\\loky\\cloudpickle_wrapper.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\json5\\__init__.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\json5\\lib.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\json5\\version.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\jsonmerge\\__init__.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\jsonpickle\\__init__.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\jsonpickle\\pickler.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\jsonpickle\\unpickler.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\jupyterlab\\__init__.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\jupyterlab_plotly\\__init__.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\jupyterlab_pygments\\__init__.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\jupyterlab_server\\__init__.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\jupyterlab_server\\_version.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\jupyterlab_server\\app.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\jupyterlab_server\\handlers.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\jupyterlab_server\\config.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\jupyterlab_server\\licenses_app.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\jupyterlab_server\\translation_utils.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\jupyterlab_server\\workspaces_app.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\jupyterlab_server\\workspaces_handler.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\jupyterlab_widgets\\__init__.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\jupyter_client\\__init__.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\jupyter_core\\__init__.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\jupyter_server\\__init__.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\jwt\\__init__.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\jwt\\api_jwk.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\jwt\\api_jws.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\jwt\\api_jwt.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\jwt\\exceptions.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\jwt\\jwks_client.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\keep\\__init__.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\keras\\__init__.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\keras_preprocessing\\__init__.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\konoha\\__init__.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\kornia\\__init__.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\label_studio\\__init__.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\label_studio_converter\\__init__.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\langcodes\\__init__.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\langdetect\\__init__.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\lark\\__init__.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\layoutparser\\__init__.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\ldclient\\__init__.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\libfuturize\\__init__.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\libpasteurize\\__init__.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\linkify_it\\__init__.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\llvmlite\\__init__.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\lmdb\\__init__.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\lmdb\\cffi.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\lockfile\\__init__.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\logzero\\__init__.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\lpips\\__init__.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\lxml\\__init__.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\mako\\__init__.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\markdown_it\\__init__.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\markdown_it\\main.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\markupsafe\\__init__.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\marshmallow\\decorators.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\marshmallow\\exceptions.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\marshmallow\\schema.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\marshmallow_enum\\__init__.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\matplotlib\\pylab.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\matplotlib\\tests\\__init__.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\matplotlib\\tight_bbox.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\mdit_py_plugins\\__init__.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\mdurl\\__init__.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\mdurl\\_decode.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\mdurl\\_encode.py', reloading
+08-Jan-23 15:31:55 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\mdurl\\_format.py', reloading
+08-Jan-23 15:31:56 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\mdurl\\_parse.py', reloading
+08-Jan-23 15:31:56 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\mdurl\\_url.py', reloading
+08-Jan-23 15:31:56 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\MeCab\\__init__.py', reloading
+08-Jan-23 15:31:56 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\mecabpr\\__init__.py', reloading
+08-Jan-23 15:31:56 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\missingno\\__init__.py', reloading
+08-Jan-23 15:31:56 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\model_utils\\__init__.py', reloading
+08-Jan-23 15:31:56 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\mpld3\\__init__.py', reloading
+08-Jan-23 15:31:56 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\mpld3\\_display.py', reloading
+08-Jan-23 15:31:56 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\mpld3\\__about__.py', reloading
+08-Jan-23 15:31:56 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\msgpack\\__init__.py', reloading
+08-Jan-23 15:31:56 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\msrest\\__init__.py', reloading
+08-Jan-23 15:31:56 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\msrest\\configuration.py', reloading
+08-Jan-23 15:31:56 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\msrest\\service_client.py', reloading
+08-Jan-23 15:31:56 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\msrest\\serialization.py', reloading
+08-Jan-23 15:31:56 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\multimethod\\__init__.py', reloading
+08-Jan-23 15:31:56 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\multipart\\__init__.py', reloading
+08-Jan-23 15:31:56 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\murmurhash\\__init__.py', reloading
+08-Jan-23 15:31:56 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\nacl\\__init__.py', reloading
+08-Jan-23 15:31:56 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\nagisa\\__init__.py', reloading
+08-Jan-23 15:31:56 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\natsort\\__init__.py', reloading
+08-Jan-23 15:31:56 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\natsort\\natsort.py', reloading
+08-Jan-23 15:31:56 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\natsort\\ns_enum.py', reloading
+08-Jan-23 15:31:56 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\natsort\\utils.py', reloading
+08-Jan-23 15:31:56 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\nbclassic\\__init__.py', reloading
+08-Jan-23 15:31:56 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\nbclient\\__init__.py', reloading
+08-Jan-23 15:31:56 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\nbconvert\\__init__.py', reloading
+08-Jan-23 15:31:56 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\nbformat\\__init__.py', reloading
+08-Jan-23 15:31:56 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\nbformat\\_version.py', reloading
+08-Jan-23 15:31:56 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\nbformat\\converter.py', reloading
+08-Jan-23 15:31:56 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\nbformat\\notebooknode.py', reloading
+08-Jan-23 15:31:56 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\nbformat\\v4\\__init__.py', reloading
+08-Jan-23 15:31:56 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\nbformat\\v4\\nbbase.py', reloading
+08-Jan-23 15:31:56 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\nbformat\\validator.py', reloading
+08-Jan-23 15:31:56 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\nbformat\\json_compat.py', reloading
+08-Jan-23 15:31:56 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\networkx\\__init__.py', reloading
+08-Jan-23 15:31:56 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\nibabel\\__init__.py', reloading
+08-Jan-23 15:31:56 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\nipype\\__init__.py', reloading
+08-Jan-23 15:31:56 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\nisext\\__init__.py', reloading
+08-Jan-23 15:31:56 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\nltk\\__init__.py', reloading
+08-Jan-23 15:31:56 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\normality\\__init__.py', reloading
+08-Jan-23 15:31:56 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\normality\\cleaning.py', reloading
+08-Jan-23 15:31:56 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\normality\\constants.py', reloading
+08-Jan-23 15:31:56 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\normality\\transliteration.py', reloading
+08-Jan-23 15:31:56 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\normality\\encoding.py', reloading
+08-Jan-23 15:31:56 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\normality\\stringify.py', reloading
+08-Jan-23 15:31:56 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\normality\\paths.py', reloading
+08-Jan-23 15:31:56 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\normality\\slugify.py', reloading
+08-Jan-23 15:31:56 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\notebook\\__init__.py', reloading
+08-Jan-23 15:31:56 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\notebook_shim\\__init__.py', reloading
+08-Jan-23 15:31:56 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\numba\\__init__.py', reloading
+08-Jan-23 15:31:56 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\numba\\core\\errors.py', reloading
+08-Jan-23 15:31:56 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\numba\\core\\types\\__init__.py', reloading
+08-Jan-23 15:31:56 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\numba\\core\\types\\abstract.py', reloading
+08-Jan-23 15:31:57 - INFO -  * Restarting with watchdog (windowsapi)
+08-Jan-23 15:32:00 - WARNING -  * Debugger is active!
+08-Jan-23 15:32:00 - INFO -  * Debugger PIN: 587-542-207
+08-Jan-23 15:32:00 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\scipy\\special\\_basic.py', reloading
+08-Jan-23 15:32:00 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\scipy\\stats\\__init__.py', reloading
+08-Jan-23 15:32:00 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\scipy\\stats\\_stats_py.py', reloading
+08-Jan-23 15:32:00 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\scipy\\stats\\distributions.py', reloading
+08-Jan-23 15:32:00 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\scipy\\stats\\_continuous_distns.py', reloading
+08-Jan-23 15:32:00 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\scipy\\stats\\_discrete_distns.py', reloading
+08-Jan-23 15:32:00 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\scipy\\stats\\_morestats.py', reloading
+08-Jan-23 15:32:00 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\scipy\\stats\\_binned_statistic.py', reloading
+08-Jan-23 15:32:00 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\scipy\\stats\\_multivariate.py', reloading
+08-Jan-23 15:32:00 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\scipy\\stats\\_entropy.py', reloading
+08-Jan-23 15:32:00 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\scipy\\stats\\_hypotests.py', reloading
+08-Jan-23 15:32:00 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\scipy\\version.py', reloading
+08-Jan-23 15:32:00 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\scipy\\__config__.py', reloading
+08-Jan-23 15:32:00 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\scipy\\__init__.py', reloading
+08-Jan-23 15:32:00 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\scrapy\\__init__.py', reloading
+08-Jan-23 15:32:00 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\scrapy\\spiders\\__init__.py', reloading
+08-Jan-23 15:32:00 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\scrapy\\http\\__init__.py', reloading
+08-Jan-23 15:32:00 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\scrapy\\http\\request\\__init__.py', reloading
+08-Jan-23 15:32:00 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\scrapy\\http\\request\\form.py', reloading
+08-Jan-23 15:32:00 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\scrapy\\selector\\__init__.py', reloading
+08-Jan-23 15:32:00 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\scrapy\\selector\\unified.py', reloading
+08-Jan-23 15:32:00 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\scrapy\\item.py', reloading
+08-Jan-23 15:32:00 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\seaborn\\__init__.py', reloading
+08-Jan-23 15:32:00 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\seedir\\__init__.py', reloading
+08-Jan-23 15:32:00 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\segtok\\__init__.py', reloading
+08-Jan-23 15:32:00 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\selenium\\__init__.py', reloading
+08-Jan-23 15:32:00 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\sentencepiece\\__init__.py', reloading
+08-Jan-23 15:32:00 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\sentence_transformers\\__init__.py', reloading
+08-Jan-23 15:32:00 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\sentry_sdk\\__init__.py', reloading
+08-Jan-23 15:32:00 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\sentry_sdk\\api.py', reloading
+08-Jan-23 15:32:00 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\sentry_sdk\\hub.py', reloading
+08-Jan-23 15:32:00 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\sentry_sdk\\scope.py', reloading
+08-Jan-23 15:32:00 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\sentry_sdk\\transport.py', reloading
+08-Jan-23 15:32:00 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\sentry_sdk\\client.py', reloading
+08-Jan-23 15:32:00 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\service_identity\\__init__.py', reloading
+08-Jan-23 15:32:00 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\service_identity\\exceptions.py', reloading
+08-Jan-23 15:32:00 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\shapely\\__init__.py', reloading
+08-Jan-23 15:32:00 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\shellingham\\__init__.py', reloading
+08-Jan-23 15:32:00 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\skimage\\__init__.py', reloading
+08-Jan-23 15:32:00 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\sklearn\\base.py', reloading
+08-Jan-23 15:32:00 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\sklearn\\calibration.py', reloading
+08-Jan-23 15:32:00 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\sklearn\\cluster\\__init__.py', reloading
+08-Jan-23 15:32:00 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\sklearn\\cluster\\_spectral.py', reloading
+08-Jan-23 15:32:01 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\sklearn\\cluster\\_mean_shift.py', reloading
+08-Jan-23 15:32:01 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\sklearn\\cluster\\_affinity_propagation.py', reloading
+08-Jan-23 15:32:01 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\sklearn\\cluster\\_agglomerative.py', reloading
+08-Jan-23 15:32:01 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\sklearn\\cluster\\_kmeans.py', reloading
+08-Jan-23 15:32:01 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\sklearn\\cluster\\_bisect_k_means.py', reloading
+08-Jan-23 15:32:01 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\sklearn\\cluster\\_dbscan.py', reloading
+08-Jan-23 15:32:01 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\sklearn\\cluster\\_optics.py', reloading
+08-Jan-23 15:32:01 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\sklearn\\cluster\\_bicluster.py', reloading
+08-Jan-23 15:32:01 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\sklearn\\cluster\\_birch.py', reloading
+08-Jan-23 15:32:01 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\sklearn\\compose\\__init__.py', reloading
+08-Jan-23 15:32:01 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\sklearn\\compose\\_column_transformer.py', reloading
+08-Jan-23 15:32:01 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\sklearn\\compose\\_target.py', reloading
+08-Jan-23 15:32:01 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\sklearn\\conftest.py', reloading
+08-Jan-23 15:32:01 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\sklearn\\covariance\\__init__.py', reloading
+08-Jan-23 15:32:01 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\sklearn\\covariance\\_empirical_covariance.py', reloading
+08-Jan-23 15:32:01 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\sklearn\\covariance\\_shrunk_covariance.py', reloading
+08-Jan-23 15:32:01 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\sklearn\\covariance\\_robust_covariance.py', reloading
+08-Jan-23 15:32:01 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\sklearn\\covariance\\_graph_lasso.py', reloading
+08-Jan-23 15:32:01 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\sklearn\\covariance\\_elliptic_envelope.py', reloading
+08-Jan-23 15:32:01 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\sklearn\\cross_decomposition\\__init__.py', reloading
+08-Jan-23 15:32:01 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\sklearn\\cross_decomposition\\_pls.py', reloading
+08-Jan-23 15:32:01 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\sklearn\\datasets\\__init__.py', reloading
+08-Jan-23 15:32:01 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\sklearn\\datasets\\_base.py', reloading
+08-Jan-23 15:32:01 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\sklearn\\datasets\\_covtype.py', reloading
+08-Jan-23 15:32:02 - INFO -  * Restarting with watchdog (windowsapi)
+08-Jan-23 15:32:06 - WARNING -  * Debugger is active!
+08-Jan-23 15:32:06 - INFO -  * Debugger PIN: 587-542-207
+08-Jan-23 15:32:06 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\transformers\\utils\\dummy_sentencepiece_objects.py', reloading
+08-Jan-23 15:32:06 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\transformers\\utils\\dummy_tokenizers_objects.py', reloading
+08-Jan-23 15:32:06 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\transformers\\utils\\dummy_speech_objects.py', reloading
+08-Jan-23 15:32:06 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\transformers\\utils\\dummy_sentencepiece_and_speech_objects.py', reloading
+08-Jan-23 15:32:06 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\transformers\\utils\\dummy_vision_objects.py', reloading
+08-Jan-23 15:32:06 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\transformers\\utils\\dummy_timm_objects.py', reloading
+08-Jan-23 15:32:06 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\transformers\\utils\\dummy_scatter_objects.py', reloading
+08-Jan-23 15:32:06 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\transformers\\utils\\dummy_pt_objects.py', reloading
+08-Jan-23 15:32:07 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\transformers\\utils\\dummy_tf_objects.py', reloading
+08-Jan-23 15:32:07 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\transformers\\utils\\dummy_flax_objects.py', reloading
+08-Jan-23 15:32:07 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\transformers\\utils\\__init__.py', reloading
+08-Jan-23 15:32:07 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\transformers\\utils\\import_utils.py', reloading
+08-Jan-23 15:32:07 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\trio\\__init__.py', reloading
+08-Jan-23 15:32:07 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\trio_websocket\\__init__.py', reloading
+08-Jan-23 15:32:07 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\twisted\\__init__.py', reloading
+08-Jan-23 15:32:07 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\typer\\__init__.py', reloading
+08-Jan-23 15:32:07 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\typer\\main.py', reloading
+08-Jan-23 15:32:07 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\typer\\models.py', reloading
+08-Jan-23 15:32:07 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\typer\\params.py', reloading
+08-Jan-23 15:32:07 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\tzdata\\__init__.py', reloading
+08-Jan-23 15:32:07 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\ua_parser\\__init__.py', reloading
+08-Jan-23 15:32:07 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\uc_micro\\__init__.py', reloading
+08-Jan-23 15:32:07 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\unidic\\__init__.py', reloading
+08-Jan-23 15:32:07 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\unidic_lite\\__init__.py', reloading
+08-Jan-23 15:32:07 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\uritemplate\\__init__.py', reloading
+08-Jan-23 15:32:07 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\uritemplate\\api.py', reloading
+08-Jan-23 15:32:07 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\uritemplate\\template.py', reloading
+08-Jan-23 15:32:07 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\user_agents\\__init__.py', reloading
+08-Jan-23 15:32:07 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\uvicorn\\__init__.py', reloading
+08-Jan-23 15:32:07 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\uvicorn\\config.py', reloading
+08-Jan-23 15:32:07 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\uvicorn\\main.py', reloading
+08-Jan-23 15:32:07 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\uvicorn\\server.py', reloading
+08-Jan-23 15:32:07 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\validators\\__init__.py', reloading
+08-Jan-23 15:32:07 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\validators\\card.py', reloading
+08-Jan-23 15:32:07 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\validators\\extremes.py', reloading
+08-Jan-23 15:32:07 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\validators\\hashes.py', reloading
+08-Jan-23 15:32:07 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\validators\\i18n\\__init__.py', reloading
+08-Jan-23 15:32:07 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\validators\\i18n\\fi.py', reloading
+08-Jan-23 15:32:07 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\validators\\ip_address.py', reloading
+08-Jan-23 15:32:07 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\validators\\utils.py', reloading
+08-Jan-23 15:32:07 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\visions\\__init__.py', reloading
+08-Jan-23 15:32:07 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\visions\\backends\\__init__.py', reloading
+08-Jan-23 15:32:07 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\visions\\types\\__init__.py', reloading
+08-Jan-23 15:32:07 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\visions\\typesets\\__init__.py', reloading
+08-Jan-23 15:32:07 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\visions\\backends\\pandas\\test_utils.py', reloading
+08-Jan-23 15:32:07 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\visions\\dtypes\\boolean.py', reloading
+08-Jan-23 15:32:07 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\visions\\types\\type.py', reloading
+08-Jan-23 15:32:07 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\visions\\types\\generic.py', reloading
+08-Jan-23 15:32:07 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\visions\\types\\string.py', reloading
+08-Jan-23 15:32:07 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\visions\\types\\boolean.py', reloading
+08-Jan-23 15:32:07 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\visions\\types\\categorical.py', reloading
+08-Jan-23 15:32:07 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\visions\\types\\complex.py', reloading
+08-Jan-23 15:32:07 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\visions\\types\\count.py', reloading
+08-Jan-23 15:32:07 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\visions\\types\\date.py', reloading
+08-Jan-23 15:32:07 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\visions\\types\\date_time.py', reloading
+08-Jan-23 15:32:07 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\visions\\types\\file.py', reloading
+08-Jan-23 15:32:07 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\visions\\types\\float.py', reloading
+08-Jan-23 15:32:07 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\visions\\types\\geometry.py', reloading
+08-Jan-23 15:32:07 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\visions\\types\\image.py', reloading
+08-Jan-23 15:32:07 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\visions\\types\\integer.py', reloading
+08-Jan-23 15:32:07 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\visions\\types\\ip_address.py', reloading
+08-Jan-23 15:32:07 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\visions\\types\\object.py', reloading
+08-Jan-23 15:32:07 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\visions\\types\\ordinal.py', reloading
+08-Jan-23 15:32:07 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\visions\\types\\path.py', reloading
+08-Jan-23 15:32:07 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\visions\\types\\time_delta.py', reloading
+08-Jan-23 15:32:07 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\visions\\types\\uuid.py', reloading
+08-Jan-23 15:32:07 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\visions\\types\\url.py', reloading
+08-Jan-23 15:32:07 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\visions\\types\\time.py', reloading
+08-Jan-23 15:32:07 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\visions\\types\\email_address.py', reloading
+08-Jan-23 15:32:07 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\visions\\types\\sparse.py', reloading
+08-Jan-23 15:32:07 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\visions\\types\\numeric.py', reloading
+08-Jan-23 15:32:07 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\visions\\typesets\\typeset.py', reloading
+08-Jan-23 15:32:07 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\visions\\typesets\\complete_set.py', reloading
+08-Jan-23 15:32:07 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\visions\\typesets\\standard_set.py', reloading
+08-Jan-23 15:32:07 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\visions\\typesets\\geometry_set.py', reloading
+08-Jan-23 15:32:07 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\visitor\\__init__.py', reloading
+08-Jan-23 15:32:07 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\visualdl\\__init__.py', reloading
+08-Jan-23 15:32:07 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\w3lib\\__init__.py', reloading
+08-Jan-23 15:32:07 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\wand\\__init__.py', reloading
+08-Jan-23 15:32:07 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\wasabi\\__init__.py', reloading
+08-Jan-23 15:32:07 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\watchdog\\__init__.py', reloading
+08-Jan-23 15:32:07 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\wcwidth\\__init__.py', reloading
+08-Jan-23 15:32:07 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\wcwidth\\wcwidth.py', reloading
+08-Jan-23 15:32:07 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\wcwidth\\unicode_versions.py', reloading
+08-Jan-23 15:32:07 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\webdriver_manager\\__init__.py', reloading
+08-Jan-23 15:32:07 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\webencodings\\__init__.py', reloading
+08-Jan-23 15:32:07 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\websocket\\__init__.py', reloading
+08-Jan-23 15:32:07 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\websockets\\__init__.py', reloading
+08-Jan-23 15:32:07 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\werkzeug\\__init__.py', reloading
+08-Jan-23 15:32:07 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\werkzeug\\serving.py', reloading
+08-Jan-23 15:32:07 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\werkzeug\\test.py', reloading
+08-Jan-23 15:32:07 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\werkzeug\\wrappers\\__init__.py', reloading
+08-Jan-23 15:32:07 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\werkzeug\\wrappers\\request.py', reloading
+08-Jan-23 15:32:07 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\werkzeug\\wrappers\\response.py', reloading
+08-Jan-23 15:32:07 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\whatlies\\__init__.py', reloading
+08-Jan-23 15:32:07 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\whatlies\\embeddingset.py', reloading
+08-Jan-23 15:32:07 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\whatlies\\embedding.py', reloading
+08-Jan-23 15:32:07 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\wheel\\__init__.py', reloading
+08-Jan-23 15:32:07 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\widgetsnbextension\\__init__.py', reloading
+08-Jan-23 15:32:07 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\wikipedia\\__init__.py', reloading
+08-Jan-23 15:32:07 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\wikipediaapi\\__init__.py', reloading
+08-Jan-23 15:32:07 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\winpty\\__init__.py', reloading
+08-Jan-23 15:32:07 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\wrapt\\__init__.py', reloading
+08-Jan-23 15:32:07 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\wsproto\\__init__.py', reloading
+08-Jan-23 15:32:07 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\wsproto\\connection.py', reloading
+08-Jan-23 15:32:07 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\wtforms\\__init__.py', reloading
+08-Jan-23 15:32:07 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\wtforms_sqlalchemy\\__init__.py', reloading
+08-Jan-23 15:32:07 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\xgboost\\__init__.py', reloading
+08-Jan-23 15:32:07 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\xgboost\\core.py', reloading
+08-Jan-23 15:32:07 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\xgboost\\training.py', reloading
+08-Jan-23 15:32:07 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\xgboost\\sklearn.py', reloading
+08-Jan-23 15:32:07 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\xgboost\\plotting.py', reloading
+08-Jan-23 15:32:07 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\xlrd\\__init__.py', reloading
+08-Jan-23 15:32:07 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\xlrd\\formula.py', reloading
+08-Jan-23 15:32:07 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\xlrd\\timemachine.py', reloading
+08-Jan-23 15:32:07 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\xlsxwriter\\__init__.py', reloading
+08-Jan-23 15:32:07 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\xmljson\\__init__.py', reloading
+08-Jan-23 15:32:07 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\yapf\\__init__.py', reloading
+08-Jan-23 15:32:07 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\yapftests\\__init__.py', reloading
+08-Jan-23 15:32:08 - INFO -  * Restarting with watchdog (windowsapi)
+08-Jan-23 15:32:12 - WARNING -  * Debugger is active!
+08-Jan-23 15:32:12 - INFO -  * Debugger PIN: 587-542-207
+08-Jan-23 15:32:21 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\pkg_resources\\_vendor\\pyparsing.py', reloading
+08-Jan-23 15:32:22 - INFO -  * Restarting with watchdog (windowsapi)
+08-Jan-23 15:32:26 - WARNING -  * Debugger is active!
+08-Jan-23 15:32:26 - INFO -  * Debugger PIN: 587-542-207
+08-Jan-23 15:32:30 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\werkzeug\\security.py', reloading
+08-Jan-23 15:32:31 - INFO -  * Restarting with watchdog (windowsapi)
+08-Jan-23 15:32:33 - WARNING -  * Debugger is active!
+08-Jan-23 15:32:33 - INFO -  * Debugger PIN: 587-542-207
+08-Jan-23 15:32:52 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\IPython\\core\\interactiveshell.py', reloading
+08-Jan-23 15:32:53 - INFO -  * Restarting with watchdog (windowsapi)
+08-Jan-23 15:32:56 - WARNING -  * Debugger is active!
+08-Jan-23 15:32:56 - INFO -  * Debugger PIN: 587-542-207
+08-Jan-23 15:34:31 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\sqlite3\\dbapi2.py', reloading
+08-Jan-23 15:34:32 - INFO -  * Restarting with watchdog (windowsapi)
+08-Jan-23 15:34:35 - WARNING -  * Debugger is active!
+08-Jan-23 15:34:35 - INFO -  * Debugger PIN: 587-542-207
+08-Jan-23 15:35:48 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\IPython\\core\\display.py', reloading
+08-Jan-23 15:35:49 - INFO -  * Restarting with watchdog (windowsapi)
+08-Jan-23 15:35:52 - WARNING -  * Debugger is active!
+08-Jan-23 15:35:52 - INFO -  * Debugger PIN: 587-542-207
+08-Jan-23 15:40:08 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\traitlets\\config\\configurable.py', reloading
+08-Jan-23 15:40:09 - INFO -  * Restarting with watchdog (windowsapi)
+08-Jan-23 15:40:11 - WARNING -  * Debugger is active!
+08-Jan-23 15:40:11 - INFO -  * Debugger PIN: 587-542-207
+08-Jan-23 15:41:35 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\models.py', reloading
+08-Jan-23 15:41:36 - INFO -  * Restarting with watchdog (windowsapi)
+08-Jan-23 15:41:39 - WARNING -  * Debugger is active!
+08-Jan-23 15:41:39 - INFO -  * Debugger PIN: 587-542-207
+08-Jan-23 15:41:50 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\sqlalchemy\\orm\\session.py', reloading
+08-Jan-23 15:41:50 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\sqlalchemy\\__init__.py', reloading
+08-Jan-23 15:41:50 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\sqlalchemy\\util\\compat.py', reloading
+08-Jan-23 15:41:51 - INFO -  * Restarting with watchdog (windowsapi)
+08-Jan-23 15:41:54 - WARNING -  * Debugger is active!
+08-Jan-23 15:41:54 - INFO -  * Debugger PIN: 587-542-207
+08-Jan-23 15:42:58 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 15:42:58 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 15:42:58 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 15:42:58 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 15:42:59 - INFO -  * Restarting with watchdog (windowsapi)
+08-Jan-23 15:43:06 - WARNING -  * Debugger is active!
+08-Jan-23 15:43:06 - INFO -  * Debugger PIN: 587-542-207
+08-Jan-23 15:43:16 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 15:43:16 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 15:43:16 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 15:43:16 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 15:43:16 - INFO -  * Restarting with watchdog (windowsapi)
+08-Jan-23 15:43:19 - WARNING -  * Debugger is active!
+08-Jan-23 15:43:19 - INFO -  * Debugger PIN: 587-542-207
+08-Jan-23 15:43:21 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 15:43:21 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 15:43:21 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 15:43:21 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 15:43:22 - INFO -  * Restarting with watchdog (windowsapi)
+08-Jan-23 15:43:25 - WARNING -  * Debugger is active!
+08-Jan-23 15:43:25 - INFO -  * Debugger PIN: 587-542-207
+08-Jan-23 15:44:15 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 15:44:15 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 15:44:15 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 15:44:16 - INFO -  * Restarting with watchdog (windowsapi)
+08-Jan-23 15:44:18 - WARNING -  * Debugger is active!
+08-Jan-23 15:44:18 - INFO -  * Debugger PIN: 587-542-207
+08-Jan-23 15:44:21 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 15:44:21 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 15:44:21 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 15:44:21 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 15:44:22 - INFO -  * Restarting with watchdog (windowsapi)
+08-Jan-23 15:44:25 - WARNING -  * Debugger is active!
+08-Jan-23 15:44:25 - INFO -  * Debugger PIN: 587-542-207
+08-Jan-23 15:44:27 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 15:44:27 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 15:44:27 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 15:44:28 - INFO -  * Restarting with watchdog (windowsapi)
+08-Jan-23 15:46:59 - INFO -  * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.118:5000 (Press CTRL+C to quit)
+08-Jan-23 15:46:59 - INFO -  * Restarting with watchdog (windowsapi)
+08-Jan-23 15:47:02 - WARNING -  * Debugger is active!
+08-Jan-23 15:47:02 - INFO -  * Debugger PIN: 587-542-207
+08-Jan-23 15:47:13 - INFO - 192.168.0.118 - - [08/Jan/2023 15:47:13] "POST /api/login HTTP/1.1" 200 -
+08-Jan-23 15:48:37 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 15:48:37 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 15:48:37 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 15:48:37 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 15:48:38 - INFO -  * Restarting with watchdog (windowsapi)
+08-Jan-23 15:48:42 - WARNING -  * Debugger is active!
+08-Jan-23 15:48:42 - INFO -  * Debugger PIN: 587-542-207
+08-Jan-23 15:50:56 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 15:50:56 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 15:50:56 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 15:50:56 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 15:50:58 - INFO -  * Restarting with watchdog (windowsapi)
+08-Jan-23 15:51:04 - WARNING -  * Debugger is active!
+08-Jan-23 15:51:04 - INFO -  * Debugger PIN: 587-542-207
+08-Jan-23 15:51:39 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 15:51:39 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 15:51:39 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 15:51:39 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 15:51:40 - INFO -  * Restarting with watchdog (windowsapi)
+08-Jan-23 15:51:42 - WARNING -  * Debugger is active!
+08-Jan-23 15:51:42 - INFO -  * Debugger PIN: 587-542-207
+08-Jan-23 15:53:01 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 15:53:01 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 15:53:02 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 15:53:02 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 15:53:03 - INFO -  * Restarting with watchdog (windowsapi)
+08-Jan-23 15:59:28 - INFO -  * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.118:5000 (Press CTRL+C to quit)
+08-Jan-23 15:59:28 - INFO -  * Restarting with watchdog (windowsapi)
+08-Jan-23 15:59:31 - WARNING -  * Debugger is active!
+08-Jan-23 15:59:31 - INFO -  * Debugger PIN: 587-542-207
+08-Jan-23 16:00:04 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\flask_cors\\extension.py', reloading
+08-Jan-23 16:00:04 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\flask_cors\\decorator.py', reloading
+08-Jan-23 16:00:04 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\json\\encoder.py', reloading
+08-Jan-23 16:00:04 - INFO - 127.0.0.1 - - [08/Jan/2023 16:00:04] "[35m[1mPOST /current_user HTTP/1.1[0m" 500 -
+08-Jan-23 16:00:05 - INFO -  * Restarting with watchdog (windowsapi)
+08-Jan-23 16:00:08 - WARNING -  * Debugger is active!
+08-Jan-23 16:00:08 - INFO -  * Debugger PIN: 587-542-207
+08-Jan-23 16:00:17 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 16:00:17 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 16:00:17 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 16:00:17 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 16:00:18 - INFO -  * Restarting with watchdog (windowsapi)
+08-Jan-23 16:00:21 - WARNING -  * Debugger is active!
+08-Jan-23 16:00:21 - INFO -  * Debugger PIN: 587-542-207
+08-Jan-23 16:00:21 - INFO - 127.0.0.1 - - [08/Jan/2023 16:00:21] "[35m[1mPOST /current_user HTTP/1.1[0m" 500 -
+08-Jan-23 16:00:48 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\pandas\\core\\frame.py', reloading
+08-Jan-23 16:00:49 - INFO -  * Restarting with watchdog (windowsapi)
+08-Jan-23 16:00:51 - WARNING -  * Debugger is active!
+08-Jan-23 16:00:51 - INFO -  * Debugger PIN: 587-542-207
+08-Jan-23 16:01:24 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 16:01:24 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 16:01:24 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 16:01:24 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 16:01:25 - INFO -  * Restarting with watchdog (windowsapi)
+08-Jan-23 16:01:27 - WARNING -  * Debugger is active!
+08-Jan-23 16:01:27 - INFO -  * Debugger PIN: 587-542-207
+08-Jan-23 16:01:28 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 16:01:28 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 16:01:28 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 16:01:28 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 16:01:29 - INFO -  * Restarting with watchdog (windowsapi)
+08-Jan-23 16:01:32 - WARNING -  * Debugger is active!
+08-Jan-23 16:01:32 - INFO -  * Debugger PIN: 587-542-207
+08-Jan-23 16:01:33 - INFO - 127.0.0.1 - - [08/Jan/2023 16:01:33] "[35m[1mPOST /current_user HTTP/1.1[0m" 500 -
+08-Jan-23 16:02:10 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 16:02:10 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 16:02:11 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 16:02:11 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 16:02:12 - INFO -  * Restarting with watchdog (windowsapi)
+08-Jan-23 16:02:14 - WARNING -  * Debugger is active!
+08-Jan-23 16:02:15 - INFO -  * Debugger PIN: 587-542-207
+08-Jan-23 16:02:19 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\routes.py', reloading
+08-Jan-23 16:02:19 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\routes.py', reloading
+08-Jan-23 16:02:19 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\routes.py', reloading
+08-Jan-23 16:02:20 - INFO -  * Restarting with watchdog (windowsapi)
+08-Jan-23 16:02:23 - WARNING -  * Debugger is active!
+08-Jan-23 16:02:23 - INFO -  * Debugger PIN: 587-542-207
+08-Jan-23 16:02:27 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\routes.py', reloading
+08-Jan-23 16:02:27 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\routes.py', reloading
+08-Jan-23 16:02:27 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\routes.py', reloading
+08-Jan-23 16:02:27 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\routes.py', reloading
+08-Jan-23 16:02:28 - INFO -  * Restarting with watchdog (windowsapi)
+08-Jan-23 16:02:31 - WARNING -  * Debugger is active!
+08-Jan-23 16:02:31 - INFO -  * Debugger PIN: 587-542-207
+08-Jan-23 16:02:53 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\routes.py', reloading
+08-Jan-23 16:02:53 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\routes.py', reloading
+08-Jan-23 16:02:53 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\routes.py', reloading
+08-Jan-23 16:02:53 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\routes.py', reloading
+08-Jan-23 16:02:55 - INFO -  * Restarting with watchdog (windowsapi)
+08-Jan-23 16:02:58 - WARNING -  * Debugger is active!
+08-Jan-23 16:02:58 - INFO -  * Debugger PIN: 587-542-207
+08-Jan-23 16:03:01 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\routes.py', reloading
+08-Jan-23 16:03:01 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\routes.py', reloading
+08-Jan-23 16:03:01 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\routes.py', reloading
+08-Jan-23 16:03:01 - INFO -  * Restarting with watchdog (windowsapi)
+08-Jan-23 16:03:04 - WARNING -  * Debugger is active!
+08-Jan-23 16:03:04 - INFO -  * Debugger PIN: 587-542-207
+08-Jan-23 16:03:06 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\routes.py', reloading
+08-Jan-23 16:03:06 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\routes.py', reloading
+08-Jan-23 16:03:06 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\routes.py', reloading
+08-Jan-23 16:03:06 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\routes.py', reloading
+08-Jan-23 16:03:07 - INFO -  * Restarting with watchdog (windowsapi)
+08-Jan-23 16:03:11 - WARNING -  * Debugger is active!
+08-Jan-23 16:03:11 - INFO -  * Debugger PIN: 587-542-207
+08-Jan-23 16:03:14 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\routes.py', reloading
+08-Jan-23 16:03:14 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\routes.py', reloading
+08-Jan-23 16:03:14 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\routes.py', reloading
+08-Jan-23 16:03:14 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\routes.py', reloading
+08-Jan-23 16:03:15 - INFO -  * Restarting with watchdog (windowsapi)
+08-Jan-23 16:03:18 - WARNING -  * Debugger is active!
+08-Jan-23 16:03:18 - INFO -  * Debugger PIN: 587-542-207
+08-Jan-23 16:03:31 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\routes.py', reloading
+08-Jan-23 16:03:31 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\routes.py', reloading
+08-Jan-23 16:03:31 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\routes.py', reloading
+08-Jan-23 16:03:31 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\routes.py', reloading
+08-Jan-23 16:03:32 - INFO -  * Restarting with watchdog (windowsapi)
+08-Jan-23 16:03:34 - WARNING -  * Debugger is active!
+08-Jan-23 16:03:34 - INFO -  * Debugger PIN: 587-542-207
+08-Jan-23 16:03:35 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\routes.py', reloading
+08-Jan-23 16:03:35 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\routes.py', reloading
+08-Jan-23 16:03:35 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\routes.py', reloading
+08-Jan-23 16:03:35 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\routes.py', reloading
+08-Jan-23 16:03:37 - INFO -  * Restarting with watchdog (windowsapi)
+08-Jan-23 16:03:40 - WARNING -  * Debugger is active!
+08-Jan-23 16:03:40 - INFO -  * Debugger PIN: 587-542-207
+08-Jan-23 16:03:42 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\routes.py', reloading
+08-Jan-23 16:03:42 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\routes.py', reloading
+08-Jan-23 16:03:42 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\routes.py', reloading
+08-Jan-23 16:03:43 - INFO -  * Restarting with watchdog (windowsapi)
+08-Jan-23 16:03:46 - WARNING -  * Debugger is active!
+08-Jan-23 16:03:46 - INFO -  * Debugger PIN: 587-542-207
+08-Jan-23 16:03:47 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\routes.py', reloading
+08-Jan-23 16:03:47 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\routes.py', reloading
+08-Jan-23 16:03:47 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\routes.py', reloading
+08-Jan-23 16:03:48 - INFO -  * Restarting with watchdog (windowsapi)
+08-Jan-23 16:03:51 - WARNING -  * Debugger is active!
+08-Jan-23 16:03:51 - INFO -  * Debugger PIN: 587-542-207
+08-Jan-23 16:04:55 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\routes.py', reloading
+08-Jan-23 16:04:55 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\routes.py', reloading
+08-Jan-23 16:04:55 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\routes.py', reloading
+08-Jan-23 16:04:55 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\routes.py', reloading
+08-Jan-23 16:04:56 - INFO -  * Restarting with watchdog (windowsapi)
+08-Jan-23 16:04:59 - WARNING -  * Debugger is active!
+08-Jan-23 16:04:59 - INFO -  * Debugger PIN: 587-542-207
+08-Jan-23 16:05:10 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\routes.py', reloading
+08-Jan-23 16:05:10 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\routes.py', reloading
+08-Jan-23 16:05:10 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\routes.py', reloading
+08-Jan-23 16:05:11 - INFO -  * Restarting with watchdog (windowsapi)
+08-Jan-23 16:05:14 - WARNING -  * Debugger is active!
+08-Jan-23 16:05:14 - INFO -  * Debugger PIN: 587-542-207
+08-Jan-23 16:05:15 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\routes.py', reloading
+08-Jan-23 16:05:15 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\routes.py', reloading
+08-Jan-23 16:05:15 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\routes.py', reloading
+08-Jan-23 16:05:15 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\routes.py', reloading
+08-Jan-23 16:05:16 - INFO -  * Restarting with watchdog (windowsapi)
+08-Jan-23 16:05:20 - WARNING -  * Debugger is active!
+08-Jan-23 16:05:20 - INFO -  * Debugger PIN: 587-542-207
+08-Jan-23 16:05:21 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\routes.py', reloading
+08-Jan-23 16:05:21 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\routes.py', reloading
+08-Jan-23 16:05:21 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\routes.py', reloading
+08-Jan-23 16:05:21 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\routes.py', reloading
+08-Jan-23 16:05:23 - INFO -  * Restarting with watchdog (windowsapi)
+08-Jan-23 16:05:26 - WARNING -  * Debugger is active!
+08-Jan-23 16:05:26 - INFO -  * Debugger PIN: 587-542-207
+08-Jan-23 16:05:32 - INFO - 127.0.0.1 - - [08/Jan/2023 16:05:32] "[31m[1mPOST /api/current_user HTTP/1.1[0m" 405 -
+08-Jan-23 16:05:48 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\routes.py', reloading
+08-Jan-23 16:05:48 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\routes.py', reloading
+08-Jan-23 16:05:48 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\routes.py', reloading
+08-Jan-23 16:05:48 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\routes.py', reloading
+08-Jan-23 16:05:50 - INFO -  * Restarting with watchdog (windowsapi)
+08-Jan-23 16:05:53 - WARNING -  * Debugger is active!
+08-Jan-23 16:05:53 - INFO -  * Debugger PIN: 587-542-207
+08-Jan-23 16:06:12 - INFO - 127.0.0.1 - - [08/Jan/2023 16:06:12] "[31m[1mPOST /api/current_user HTTP/1.1[0m" 405 -
+08-Jan-23 16:07:33 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\routes.py', reloading
+08-Jan-23 16:07:33 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\routes.py', reloading
+08-Jan-23 16:07:33 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\routes.py', reloading
+08-Jan-23 16:07:34 - INFO -  * Restarting with watchdog (windowsapi)
+08-Jan-23 16:07:38 - WARNING -  * Debugger is active!
+08-Jan-23 16:07:38 - INFO -  * Debugger PIN: 587-542-207
+08-Jan-23 16:07:41 - INFO - 127.0.0.1 - - [08/Jan/2023 16:07:41] "[31m[1mPOST /api/current_user HTTP/1.1[0m" 405 -
+08-Jan-23 16:08:20 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\routes.py', reloading
+08-Jan-23 16:08:20 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\routes.py', reloading
+08-Jan-23 16:08:20 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\routes.py', reloading
+08-Jan-23 16:08:20 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\routes.py', reloading
+08-Jan-23 16:08:21 - INFO -  * Restarting with watchdog (windowsapi)
+08-Jan-23 16:08:24 - WARNING -  * Debugger is active!
+08-Jan-23 16:08:24 - INFO -  * Debugger PIN: 587-542-207
+08-Jan-23 16:08:24 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\routes.py', reloading
+08-Jan-23 16:08:24 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\routes.py', reloading
+08-Jan-23 16:08:24 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\routes.py', reloading
+08-Jan-23 16:08:25 - INFO -  * Restarting with watchdog (windowsapi)
+08-Jan-23 16:08:28 - WARNING -  * Debugger is active!
+08-Jan-23 16:08:28 - INFO -  * Debugger PIN: 587-542-207
+08-Jan-23 16:08:31 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\routes.py', reloading
+08-Jan-23 16:08:31 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\routes.py', reloading
+08-Jan-23 16:08:31 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\routes.py', reloading
+08-Jan-23 16:08:32 - INFO -  * Restarting with watchdog (windowsapi)
+08-Jan-23 16:08:35 - WARNING -  * Debugger is active!
+08-Jan-23 16:08:35 - INFO -  * Debugger PIN: 587-542-207
+08-Jan-23 16:08:41 - INFO - 127.0.0.1 - - [08/Jan/2023 16:08:41] "[31m[1mPOST /api/current_user HTTP/1.1[0m" 405 -
+08-Jan-23 16:08:45 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\flask\\views.py', reloading
+08-Jan-23 16:08:45 - INFO - 127.0.0.1 - - [08/Jan/2023 16:08:45] "[35m[1mGET /api/current_user HTTP/1.1[0m" 500 -
+08-Jan-23 16:08:46 - INFO -  * Restarting with watchdog (windowsapi)
+08-Jan-23 16:08:49 - WARNING -  * Debugger is active!
+08-Jan-23 16:08:49 - INFO -  * Debugger PIN: 587-542-207
+08-Jan-23 16:09:37 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\routes.py', reloading
+08-Jan-23 16:09:37 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\routes.py', reloading
+08-Jan-23 16:09:37 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\routes.py', reloading
+08-Jan-23 16:09:38 - INFO -  * Restarting with watchdog (windowsapi)
+08-Jan-23 16:09:41 - WARNING -  * Debugger is active!
+08-Jan-23 16:09:41 - INFO -  * Debugger PIN: 587-542-207
+08-Jan-23 16:09:45 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\routes.py', reloading
+08-Jan-23 16:09:45 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\routes.py', reloading
+08-Jan-23 16:09:45 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\routes.py', reloading
+08-Jan-23 16:09:45 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\routes.py', reloading
+08-Jan-23 16:09:46 - INFO -  * Restarting with watchdog (windowsapi)
+08-Jan-23 16:09:49 - WARNING -  * Debugger is active!
+08-Jan-23 16:09:49 - INFO -  * Debugger PIN: 587-542-207
+08-Jan-23 16:09:51 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\routes.py', reloading
+08-Jan-23 16:09:51 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\routes.py', reloading
+08-Jan-23 16:09:51 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\routes.py', reloading
+08-Jan-23 16:09:52 - INFO -  * Restarting with watchdog (windowsapi)
+08-Jan-23 16:10:09 - INFO -  * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.118:5000 (Press CTRL+C to quit)
+08-Jan-23 16:10:09 - INFO -  * Restarting with watchdog (windowsapi)
+08-Jan-23 16:10:12 - WARNING -  * Debugger is active!
+08-Jan-23 16:10:12 - INFO -  * Debugger PIN: 587-542-207
+08-Jan-23 16:10:12 - INFO - 127.0.0.1 - - [08/Jan/2023 16:10:12] "[31m[1mPOST /api/current_user HTTP/1.1[0m" 405 -
+08-Jan-23 16:14:17 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\routes.py', reloading
+08-Jan-23 16:14:17 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\routes.py', reloading
+08-Jan-23 16:14:17 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\routes.py', reloading
+08-Jan-23 16:14:17 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\routes.py', reloading
+08-Jan-23 16:14:19 - INFO -  * Restarting with watchdog (windowsapi)
+08-Jan-23 16:14:26 - WARNING -  * Debugger is active!
+08-Jan-23 16:14:26 - INFO -  * Debugger PIN: 587-542-207
+08-Jan-23 16:14:45 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\routes.py', reloading
+08-Jan-23 16:14:45 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\routes.py', reloading
+08-Jan-23 16:14:45 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\routes.py', reloading
+08-Jan-23 16:14:45 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\routes.py', reloading
+08-Jan-23 16:14:47 - INFO -  * Restarting with watchdog (windowsapi)
+08-Jan-23 16:14:50 - WARNING -  * Debugger is active!
+08-Jan-23 16:14:50 - INFO -  * Debugger PIN: 587-542-207
+08-Jan-23 16:14:52 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 16:14:52 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 16:14:52 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 16:14:52 - INFO -  * Restarting with watchdog (windowsapi)
+08-Jan-23 16:14:55 - WARNING -  * Debugger is active!
+08-Jan-23 16:14:55 - INFO -  * Debugger PIN: 587-542-207
+08-Jan-23 16:15:38 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 16:15:38 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 16:15:38 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 16:15:38 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 16:15:39 - INFO -  * Restarting with watchdog (windowsapi)
+08-Jan-23 16:21:04 - INFO -  * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.118:5000 (Press CTRL+C to quit)
+08-Jan-23 16:21:04 - INFO -  * Restarting with watchdog (windowsapi)
+08-Jan-23 16:21:07 - WARNING -  * Debugger is active!
+08-Jan-23 16:21:07 - INFO -  * Debugger PIN: 587-542-207
+08-Jan-23 16:21:14 - INFO - 127.0.0.1 - - [08/Jan/2023 16:21:14] "[35m[1mPOST /current_user HTTP/1.1[0m" 500 -
+08-Jan-23 16:22:22 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 16:22:22 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 16:22:22 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 16:22:22 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 16:22:23 - INFO -  * Restarting with watchdog (windowsapi)
+08-Jan-23 16:22:26 - WARNING -  * Debugger is active!
+08-Jan-23 16:22:26 - INFO -  * Debugger PIN: 587-542-207
+08-Jan-23 16:22:26 - INFO - 127.0.0.1 - - [08/Jan/2023 16:22:26] "[35m[1mPOST /current_user HTTP/1.1[0m" 500 -
+08-Jan-23 16:22:39 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 16:22:39 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 16:22:39 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 16:22:39 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 16:22:40 - INFO -  * Restarting with watchdog (windowsapi)
+08-Jan-23 16:22:43 - WARNING -  * Debugger is active!
+08-Jan-23 16:22:43 - INFO -  * Debugger PIN: 587-542-207
+08-Jan-23 16:23:00 - INFO - 127.0.0.1 - - [08/Jan/2023 16:23:00] "[35m[1mPOST /current_user HTTP/1.1[0m" 500 -
+08-Jan-23 16:23:51 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 16:23:51 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 16:23:51 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 16:23:52 - INFO -  * Restarting with watchdog (windowsapi)
+08-Jan-23 16:23:56 - WARNING -  * Debugger is active!
+08-Jan-23 16:23:56 - INFO -  * Debugger PIN: 587-542-207
+08-Jan-23 16:23:56 - INFO - 127.0.0.1 - - [08/Jan/2023 16:23:56] "[35m[1mPOST /current_user HTTP/1.1[0m" 500 -
+08-Jan-23 16:24:11 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 16:24:11 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 16:24:11 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 16:24:11 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 16:24:12 - INFO -  * Restarting with watchdog (windowsapi)
+08-Jan-23 16:24:15 - WARNING -  * Debugger is active!
+08-Jan-23 16:24:15 - INFO -  * Debugger PIN: 587-542-207
+08-Jan-23 16:24:15 - INFO - 127.0.0.1 - - [08/Jan/2023 16:24:15] "[35m[1mPOST /current_user HTTP/1.1[0m" 500 -
+08-Jan-23 16:24:27 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 16:24:27 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 16:24:27 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 16:24:27 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 16:24:29 - INFO -  * Restarting with watchdog (windowsapi)
+08-Jan-23 16:24:31 - WARNING -  * Debugger is active!
+08-Jan-23 16:24:31 - INFO -  * Debugger PIN: 587-542-207
+08-Jan-23 16:24:31 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 16:24:31 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 16:24:31 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 16:24:33 - INFO -  * Restarting with watchdog (windowsapi)
+08-Jan-23 16:24:43 - INFO -  * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.118:5000 (Press CTRL+C to quit)
+08-Jan-23 16:24:43 - INFO -  * Restarting with watchdog (windowsapi)
+08-Jan-23 16:24:46 - WARNING -  * Debugger is active!
+08-Jan-23 16:24:46 - INFO -  * Debugger PIN: 587-542-207
+08-Jan-23 16:24:46 - INFO - 127.0.0.1 - - [08/Jan/2023 16:24:46] "[35m[1mPOST /current_user HTTP/1.1[0m" 500 -
+08-Jan-23 16:25:15 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 16:25:15 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 16:25:15 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 16:25:17 - INFO -  * Restarting with watchdog (windowsapi)
+08-Jan-23 16:25:26 - INFO -  * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.118:5000 (Press CTRL+C to quit)
+08-Jan-23 16:25:26 - INFO -  * Restarting with watchdog (windowsapi)
+08-Jan-23 16:25:29 - WARNING -  * Debugger is active!
+08-Jan-23 16:25:29 - INFO -  * Debugger PIN: 587-542-207
+08-Jan-23 16:25:29 - INFO - 127.0.0.1 - - [08/Jan/2023 16:25:29] "[35m[1mPOST /current_user HTTP/1.1[0m" 500 -
+08-Jan-23 16:25:44 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 16:25:44 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 16:25:44 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 16:25:45 - INFO -  * Restarting with watchdog (windowsapi)
+08-Jan-23 16:25:48 - WARNING -  * Debugger is active!
+08-Jan-23 16:25:48 - INFO -  * Debugger PIN: 587-542-207
+08-Jan-23 16:25:48 - INFO - 127.0.0.1 - - [08/Jan/2023 16:25:48] "POST /current_user HTTP/1.1" 200 -
+08-Jan-23 16:26:06 - INFO - 192.168.0.118 - - [08/Jan/2023 16:26:06] "POST /api/login HTTP/1.1" 200 -
+08-Jan-23 16:26:14 - INFO - 127.0.0.1 - - [08/Jan/2023 16:26:14] "POST /current_user HTTP/1.1" 200 -
+08-Jan-23 16:26:28 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 16:26:28 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 16:26:28 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 16:26:30 - INFO -  * Restarting with watchdog (windowsapi)
+08-Jan-23 16:26:33 - WARNING -  * Debugger is active!
+08-Jan-23 16:26:33 - INFO -  * Debugger PIN: 587-542-207
+08-Jan-23 16:26:33 - INFO - 127.0.0.1 - - [08/Jan/2023 16:26:33] "POST /current_user HTTP/1.1" 200 -
+08-Jan-23 16:26:50 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 16:26:50 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 16:26:50 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 16:26:50 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 16:26:51 - INFO -  * Restarting with watchdog (windowsapi)
+08-Jan-23 16:26:54 - WARNING -  * Debugger is active!
+08-Jan-23 16:26:54 - INFO -  * Debugger PIN: 587-542-207
+08-Jan-23 16:27:19 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\routes.py', reloading
+08-Jan-23 16:27:19 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\routes.py', reloading
+08-Jan-23 16:27:19 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\routes.py', reloading
+08-Jan-23 16:27:19 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\routes.py', reloading
+08-Jan-23 16:27:20 - INFO -  * Restarting with watchdog (windowsapi)
+08-Jan-23 16:27:23 - WARNING -  * Debugger is active!
+08-Jan-23 16:27:23 - INFO -  * Debugger PIN: 587-542-207
+08-Jan-23 16:27:32 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 16:27:32 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 16:27:32 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 16:27:32 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 16:27:33 - INFO -  * Restarting with watchdog (windowsapi)

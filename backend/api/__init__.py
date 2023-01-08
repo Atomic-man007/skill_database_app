@@ -1,13 +1,16 @@
 import json
-
+import sqlite3
 from flask_cors import CORS, cross_origin
-from flask import Flask, render_template, request, jsonify
+from flask import Flask, session, request, jsonify
 from pymongo import MongoClient
 from bson.objectid import ObjectId
 import yaml
 from .routes import rest_api
-from .models import db
+from .models import db, Users
 import logging
+
+# conn = sqlite3.connect(r"C:\Users\srika\Desktop\Desktop\ES\skill_database_app\backend\api\apidata.db", check_same_thread=False)
+# curs = conn.cursor()
 
 app = Flask(__name__)
 app.config.from_object('api.config.BaseConfig')
@@ -152,9 +155,11 @@ def onedata(id):
         print('\n # Update successful # \n')
         return jsonify({'status': 'Data id: ' + id + ' is updated!'})
 
+Name = ""
 @app.route('/all_users', methods=['GET', 'POST'])
 @cross_origin()
 def fetch_all():
+    global Name
     allData = database['users'].find()
     # all = [i for i in x]
     dataJson = []
@@ -173,3 +178,17 @@ def fetch_all():
         }
         dataJson.append(dataDict)
     return jsonify(dataJson)
+
+# @app.route('/current_user', methods =['GET', 'POST'])
+# def curr_user():
+#     curs.execute('SELECT username FROM users WHERE username =?', (Name, ))
+#     user = curs.fetchone()
+#     name = ""
+#     if user:            
+#         session['loggedin'] = True
+#         session['name'] = user
+#         name = session['name']
+
+#     else:
+#         mesage = 'Please enter correct email / password !'
+#     return jsonify(name)
