@@ -23,12 +23,12 @@ const RegisterPage = () => {
 
   const registerUser = async () => {
     try {
-      const resp = await axios.post("http://localhost:5000/api/register", {
+      axios.post("http://localhost:5000/api/register", {
         username,
         email,
         password,
       });
-
+      // const user = resp.data.user.username;
       window.location.href = "/login";
     } catch (error) {
       if (error.response.status === 401) {
@@ -38,7 +38,6 @@ const RegisterPage = () => {
   };
   const handleSubmit = (event) => {
     event.preventDefault();
-    const data = new FormData(event.currentTarget)
   };
   return (
     <div class="container-sm">

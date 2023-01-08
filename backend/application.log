@@ -48,3 +48,104 @@
 06-Jan-23 01:04:50 - INFO - 127.0.0.1 - - [06/Jan/2023 01:04:50] "OPTIONS /users/63b720c22ec78e624a63d5c5 HTTP/1.1" 200 -
 06-Jan-23 01:04:50 - INFO - 127.0.0.1 - - [06/Jan/2023 01:04:50] "PUT /users/63b720c22ec78e624a63d5c5 HTTP/1.1" 200 -
 06-Jan-23 01:04:50 - INFO - 127.0.0.1 - - [06/Jan/2023 01:04:50] "GET /users HTTP/1.1" 200 -
+08-Jan-23 10:58:51 - INFO -  * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.118:5000 (Press CTRL+C to quit)
+08-Jan-23 10:58:51 - INFO -  * Restarting with watchdog (windowsapi)
+08-Jan-23 10:58:53 - WARNING -  * Debugger is active!
+08-Jan-23 10:58:53 - INFO -  * Debugger PIN: 587-542-207
+08-Jan-23 10:59:13 - INFO - 127.0.0.1 - - [08/Jan/2023 10:59:13] "OPTIONS /api/login HTTP/1.1" 200 -
+08-Jan-23 10:59:13 - INFO - 127.0.0.1 - - [08/Jan/2023 10:59:13] "POST /api/login HTTP/1.1" 200 -
+08-Jan-23 10:59:14 - INFO - 127.0.0.1 - - [08/Jan/2023 10:59:14] "GET /users HTTP/1.1" 200 -
+08-Jan-23 11:00:02 - INFO - 127.0.0.1 - - [08/Jan/2023 11:00:02] "OPTIONS /api/login HTTP/1.1" 200 -
+08-Jan-23 11:00:02 - INFO - 127.0.0.1 - - [08/Jan/2023 11:00:02] "POST /api/login HTTP/1.1" 200 -
+08-Jan-23 11:00:02 - INFO - 127.0.0.1 - - [08/Jan/2023 11:00:02] "GET /users HTTP/1.1" 200 -
+08-Jan-23 11:02:00 - INFO - 127.0.0.1 - - [08/Jan/2023 11:02:00] "OPTIONS /api/login HTTP/1.1" 200 -
+08-Jan-23 11:02:00 - INFO - 127.0.0.1 - - [08/Jan/2023 11:02:00] "POST /api/login HTTP/1.1" 200 -
+08-Jan-23 11:02:01 - INFO - 127.0.0.1 - - [08/Jan/2023 11:02:01] "GET /users HTTP/1.1" 200 -
+08-Jan-23 11:02:30 - INFO - 127.0.0.1 - - [08/Jan/2023 11:02:30] "OPTIONS /users HTTP/1.1" 200 -
+08-Jan-23 11:02:30 - INFO - 127.0.0.1 - - [08/Jan/2023 11:02:30] "POST /users HTTP/1.1" 200 -
+08-Jan-23 11:02:31 - INFO - 127.0.0.1 - - [08/Jan/2023 11:02:31] "GET /users HTTP/1.1" 200 -
+08-Jan-23 11:02:44 - INFO - 127.0.0.1 - - [08/Jan/2023 11:02:44] "GET /users HTTP/1.1" 200 -
+08-Jan-23 11:04:08 - INFO - 127.0.0.1 - - [08/Jan/2023 11:04:08] "OPTIONS /api/login HTTP/1.1" 200 -
+08-Jan-23 11:04:08 - INFO - 127.0.0.1 - - [08/Jan/2023 11:04:08] "POST /api/login HTTP/1.1" 200 -
+08-Jan-23 11:04:09 - INFO - 127.0.0.1 - - [08/Jan/2023 11:04:09] "GET /users HTTP/1.1" 200 -
+08-Jan-23 11:07:38 - INFO - 127.0.0.1 - - [08/Jan/2023 11:07:38] "GET /users HTTP/1.1" 200 -
+08-Jan-23 11:08:14 - INFO - 127.0.0.1 - - [08/Jan/2023 11:08:14] "GET /users HTTP/1.1" 200 -
+08-Jan-23 11:08:49 - INFO - 127.0.0.1 - - [08/Jan/2023 11:08:49] "GET /users HTTP/1.1" 200 -
+08-Jan-23 11:11:37 - INFO - 127.0.0.1 - - [08/Jan/2023 11:11:37] "GET /users HTTP/1.1" 200 -
+08-Jan-23 11:11:50 - INFO - 127.0.0.1 - - [08/Jan/2023 11:11:50] "GET /users HTTP/1.1" 200 -
+08-Jan-23 11:13:26 - INFO - 127.0.0.1 - - [08/Jan/2023 11:13:26] "GET /users HTTP/1.1" 200 -
+08-Jan-23 11:13:38 - INFO - 127.0.0.1 - - [08/Jan/2023 11:13:38] "GET /users HTTP/1.1" 200 -
+08-Jan-23 11:13:49 - INFO - 127.0.0.1 - - [08/Jan/2023 11:13:49] "GET /users HTTP/1.1" 200 -
+08-Jan-23 11:15:52 - INFO - 127.0.0.1 - - [08/Jan/2023 11:15:52] "GET /users HTTP/1.1" 200 -
+08-Jan-23 11:15:57 - INFO - 127.0.0.1 - - [08/Jan/2023 11:15:57] "OPTIONS /api/login HTTP/1.1" 200 -
+08-Jan-23 11:15:57 - INFO - 127.0.0.1 - - [08/Jan/2023 11:15:57] "POST /api/login HTTP/1.1" 200 -
+08-Jan-23 11:15:57 - INFO - 127.0.0.1 - - [08/Jan/2023 11:15:57] "GET /users HTTP/1.1" 200 -
+08-Jan-23 11:17:34 - INFO - 127.0.0.1 - - [08/Jan/2023 11:17:34] "GET /users HTTP/1.1" 200 -
+08-Jan-23 11:18:58 - INFO - 127.0.0.1 - - [08/Jan/2023 11:18:58] "GET /users HTTP/1.1" 200 -
+08-Jan-23 11:23:46 - INFO - 127.0.0.1 - - [08/Jan/2023 11:23:46] "GET /users HTTP/1.1" 200 -
+08-Jan-23 11:24:30 - INFO - 127.0.0.1 - - [08/Jan/2023 11:24:30] "GET /users HTTP/1.1" 200 -
+08-Jan-23 11:24:59 - INFO - 127.0.0.1 - - [08/Jan/2023 11:24:59] "GET /users HTTP/1.1" 200 -
+08-Jan-23 11:25:04 - INFO - 127.0.0.1 - - [08/Jan/2023 11:25:04] "OPTIONS /api/login HTTP/1.1" 200 -
+08-Jan-23 11:25:04 - INFO - 127.0.0.1 - - [08/Jan/2023 11:25:04] "POST /api/login HTTP/1.1" 200 -
+08-Jan-23 11:25:05 - INFO - 127.0.0.1 - - [08/Jan/2023 11:25:05] "GET /users HTTP/1.1" 200 -
+08-Jan-23 11:25:15 - INFO - 127.0.0.1 - - [08/Jan/2023 11:25:15] "OPTIONS /api/login HTTP/1.1" 200 -
+08-Jan-23 11:25:15 - INFO - 127.0.0.1 - - [08/Jan/2023 11:25:15] "POST /api/login HTTP/1.1" 200 -
+08-Jan-23 11:25:15 - INFO - 127.0.0.1 - - [08/Jan/2023 11:25:15] "GET /users HTTP/1.1" 200 -
+08-Jan-23 11:37:59 - INFO - 127.0.0.1 - - [08/Jan/2023 11:37:59] "GET /users HTTP/1.1" 200 -
+08-Jan-23 11:38:06 - INFO - 127.0.0.1 - - [08/Jan/2023 11:38:06] "GET /users HTTP/1.1" 200 -
+08-Jan-23 11:40:26 - INFO - 127.0.0.1 - - [08/Jan/2023 11:40:26] "GET /users HTTP/1.1" 200 -
+08-Jan-23 11:40:31 - INFO - 127.0.0.1 - - [08/Jan/2023 11:40:31] "GET /all_users HTTP/1.1" 200 -
+08-Jan-23 11:41:18 - INFO - 127.0.0.1 - - [08/Jan/2023 11:41:18] "GET /users HTTP/1.1" 200 -
+08-Jan-23 11:42:24 - INFO - 127.0.0.1 - - [08/Jan/2023 11:42:24] "GET /users HTTP/1.1" 200 -
+08-Jan-23 11:42:42 - INFO - 127.0.0.1 - - [08/Jan/2023 11:42:42] "GET /users HTTP/1.1" 200 -
+08-Jan-23 11:42:49 - INFO - 127.0.0.1 - - [08/Jan/2023 11:42:49] "GET /users HTTP/1.1" 200 -
+08-Jan-23 11:51:38 - INFO - 127.0.0.1 - - [08/Jan/2023 11:51:38] "GET /users HTTP/1.1" 200 -
+08-Jan-23 11:55:22 - INFO - 127.0.0.1 - - [08/Jan/2023 11:55:22] "GET /users HTTP/1.1" 200 -
+08-Jan-23 11:57:06 - INFO - 127.0.0.1 - - [08/Jan/2023 11:57:06] "GET /users HTTP/1.1" 200 -
+08-Jan-23 11:57:31 - INFO - 127.0.0.1 - - [08/Jan/2023 11:57:31] "GET /users HTTP/1.1" 200 -
+08-Jan-23 11:57:34 - INFO - 127.0.0.1 - - [08/Jan/2023 11:57:34] "GET /users HTTP/1.1" 200 -
+08-Jan-23 12:02:07 - INFO - 127.0.0.1 - - [08/Jan/2023 12:02:07] "GET /users HTTP/1.1" 200 -
+08-Jan-23 12:02:09 - INFO - 127.0.0.1 - - [08/Jan/2023 12:02:09] "GET /users HTTP/1.1" 200 -
+08-Jan-23 12:02:11 - INFO - 127.0.0.1 - - [08/Jan/2023 12:02:11] "GET /users HTTP/1.1" 200 -
+08-Jan-23 12:02:15 - INFO - 127.0.0.1 - - [08/Jan/2023 12:02:15] "OPTIONS /users/63b720c22ec78e624a63d5c5 HTTP/1.1" 200 -
+08-Jan-23 12:02:15 - INFO - 127.0.0.1 - - [08/Jan/2023 12:02:15] "DELETE /users/63b720c22ec78e624a63d5c5 HTTP/1.1" 200 -
+08-Jan-23 12:03:58 - INFO - 127.0.0.1 - - [08/Jan/2023 12:03:58] "GET /users HTTP/1.1" 200 -
+08-Jan-23 12:04:03 - INFO - 127.0.0.1 - - [08/Jan/2023 12:04:03] "GET /users HTTP/1.1" 200 -
+08-Jan-23 12:04:04 - INFO - 127.0.0.1 - - [08/Jan/2023 12:04:04] "OPTIONS /users/63ba556e395bda33691c0730 HTTP/1.1" 200 -
+08-Jan-23 12:04:04 - INFO - 127.0.0.1 - - [08/Jan/2023 12:04:04] "DELETE /users/63ba556e395bda33691c0730 HTTP/1.1" 200 -
+08-Jan-23 12:04:14 - INFO - 127.0.0.1 - - [08/Jan/2023 12:04:14] "GET /users HTTP/1.1" 200 -
+08-Jan-23 12:06:46 - INFO - 127.0.0.1 - - [08/Jan/2023 12:06:46] "GET /users HTTP/1.1" 200 -
+08-Jan-23 12:06:47 - INFO - 127.0.0.1 - - [08/Jan/2023 12:06:47] "GET /users HTTP/1.1" 200 -
+08-Jan-23 12:06:55 - INFO - 127.0.0.1 - - [08/Jan/2023 12:06:55] "GET /users HTTP/1.1" 200 -
+08-Jan-23 12:06:56 - INFO - 127.0.0.1 - - [08/Jan/2023 12:06:56] "GET /users HTTP/1.1" 200 -
+08-Jan-23 12:10:10 - INFO - 127.0.0.1 - - [08/Jan/2023 12:10:10] "GET /users HTTP/1.1" 200 -
+08-Jan-23 12:10:14 - INFO - 127.0.0.1 - - [08/Jan/2023 12:10:14] "OPTIONS /api/login HTTP/1.1" 200 -
+08-Jan-23 12:10:14 - INFO - 127.0.0.1 - - [08/Jan/2023 12:10:14] "POST /api/login HTTP/1.1" 200 -
+08-Jan-23 12:10:21 - INFO - 127.0.0.1 - - [08/Jan/2023 12:10:21] "OPTIONS /api/login HTTP/1.1" 200 -
+08-Jan-23 12:10:21 - INFO - 127.0.0.1 - - [08/Jan/2023 12:10:21] "POST /api/login HTTP/1.1" 200 -
+08-Jan-23 12:10:35 - INFO - 127.0.0.1 - - [08/Jan/2023 12:10:35] "OPTIONS /api/login HTTP/1.1" 200 -
+08-Jan-23 12:10:35 - INFO - 127.0.0.1 - - [08/Jan/2023 12:10:35] "POST /api/login HTTP/1.1" 200 -
+08-Jan-23 12:10:53 - INFO - 127.0.0.1 - - [08/Jan/2023 12:10:53] "OPTIONS /api/login HTTP/1.1" 200 -
+08-Jan-23 12:10:53 - INFO - 127.0.0.1 - - [08/Jan/2023 12:10:53] "POST /api/login HTTP/1.1" 200 -
+08-Jan-23 12:10:54 - INFO - 127.0.0.1 - - [08/Jan/2023 12:10:54] "GET /users HTTP/1.1" 200 -
+08-Jan-23 12:14:09 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\routes.py', reloading
+08-Jan-23 12:14:10 - INFO -  * Restarting with watchdog (windowsapi)
+08-Jan-23 12:14:14 - WARNING -  * Debugger is active!
+08-Jan-23 12:14:14 - INFO -  * Debugger PIN: 587-542-207
+08-Jan-23 12:17:54 - INFO - 127.0.0.1 - - [08/Jan/2023 12:17:54] "GET /users HTTP/1.1" 200 -
+08-Jan-23 12:18:13 - INFO - 127.0.0.1 - - [08/Jan/2023 12:18:13] "OPTIONS /api/register HTTP/1.1" 200 -
+08-Jan-23 12:18:14 - INFO - 127.0.0.1 - - [08/Jan/2023 12:18:14] "POST /api/register HTTP/1.1" 200 -
+08-Jan-23 12:18:19 - INFO - 127.0.0.1 - - [08/Jan/2023 12:18:19] "OPTIONS /api/login HTTP/1.1" 200 -
+08-Jan-23 12:18:19 - INFO - 127.0.0.1 - - [08/Jan/2023 12:18:19] "POST /api/login HTTP/1.1" 200 -
+08-Jan-23 12:18:20 - INFO - 127.0.0.1 - - [08/Jan/2023 12:18:20] "GET /users HTTP/1.1" 200 -
+08-Jan-23 12:19:08 - INFO - 127.0.0.1 - - [08/Jan/2023 12:19:08] "GET /users HTTP/1.1" 200 -
+08-Jan-23 12:19:10 - INFO - 127.0.0.1 - - [08/Jan/2023 12:19:10] "GET /users HTTP/1.1" 200 -
+08-Jan-23 12:19:21 - INFO - 127.0.0.1 - - [08/Jan/2023 12:19:21] "GET /users HTTP/1.1" 200 -
+08-Jan-23 12:23:03 - INFO - 127.0.0.1 - - [08/Jan/2023 12:23:03] "OPTIONS /users HTTP/1.1" 200 -
+08-Jan-23 12:23:03 - INFO - 127.0.0.1 - - [08/Jan/2023 12:23:03] "POST /users HTTP/1.1" 200 -
+08-Jan-23 12:23:04 - INFO - 127.0.0.1 - - [08/Jan/2023 12:23:04] "GET /users HTTP/1.1" 200 -
+08-Jan-23 12:23:59 - INFO - 127.0.0.1 - - [08/Jan/2023 12:23:59] "GET /users HTTP/1.1" 200 -
+08-Jan-23 12:26:09 - INFO - 127.0.0.1 - - [08/Jan/2023 12:26:09] "GET /users HTTP/1.1" 200 -

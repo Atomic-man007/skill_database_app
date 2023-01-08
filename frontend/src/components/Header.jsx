@@ -4,9 +4,12 @@ import Box from '@mui/material/Box';
 import Toolbar from '@mui/material/Toolbar';
 import IconButton from '@mui/material/IconButton';
 import Typography from '@mui/material/Typography';
-import Menu from '@mui/material/Menu';
-import MenuIcon from '@mui/icons-material/Menu';
+import Button from '@mui/material/Button';
+import Grid from '@mui/material/Grid';
 import Container from '@mui/material/Container';
+import { red } from '@mui/material/colors';
+
+// ============================================
 
 // ========= Icon imports ==============================
 import DoubleArrowIcon from '@mui/icons-material/DoubleArrow';
@@ -17,18 +20,13 @@ const logo={fontSize:'50px'}
 // ===================================================
 // ===============================================
 
-
-const Headerresponsive = () => {
-  const [anchorElNav, setAnchorElNav] = React.useState(null);
-
-  const handleOpenNavMenu = (event) => {
-    setAnchorElNav(event.currentTarget);
-  };
-  
-  const handleCloseNavMenu = () => {
-    setAnchorElNav(null);
-  };
-  
+const Headerresponsive = ({history}) => {
+  const user = localStorage.getItem('user');
+  const logout = () => {
+    localStorage.clear()
+    window.location.reload();
+    history.push('/login')
+  }
   return (
     <AppBar position="static">
       <Container maxWidth="xl">
@@ -40,68 +38,24 @@ const Headerresponsive = () => {
             component="div"
             sx={{ mr: 2, display: { xs: 'none', md: 'flex' } }}
           >
-            <DoubleArrowIcon style={logo} />
-          </Typography>
-
-
-          <Box sx={{ flexGrow: 1, display: { xs: 'flex', md: 'none' } }}>
-            <IconButton
-              size="large"
-              aria-label="account of current user"
-              aria-controls="menu-appbar"
-              aria-haspopup="true"
-              onClick={handleOpenNavMenu}
-              color="inherit"
-            >
-              <MenuIcon />
+          <IconButton aria-label="Home" onClick={() => window.location.replace('/')}>
+            <DoubleArrowIcon sx={{ color: red[50] }} style={logo} />
             </IconButton>
-            <Menu
-              id="menu-appbar"
-              anchorEl={anchorElNav}
-              anchorOrigin={{
-                vertical: 'bottom',
-                horizontal: 'left',
-              }}
-              keepMounted
-              transformOrigin={{
-                vertical: 'top',
-                horizontal: 'left',
-              }}
-              open={Boolean(anchorElNav)}
-              onClose={handleCloseNavMenu}
-              sx={{
-                display: { xs: 'block', md: 'none' },
-              }}
-            >
-
-            </Menu>
-          </Box>
-          <Typography
-            variant="h6"
-            noWrap
-            component="div"
-            sx={{ flexGrow: 1, display: { xs: 'flex', md: 'none' } }}
-          >
-            <DoubleArrowIcon style={{margin:'0 20px 0 0'}}/>
           </Typography>
-              
-
-           {/*<Grid item xs={3}>
-          <Box display="flex">
-            <Button
-              sx={{ marginLeft: "auto", background: "rgba(9,9,121,1)" }}
-              variant="contained"
-            >
-              Login
-            </Button>
-            <Button
-              sx={{ marginLeft: 1, background: "rgba(9,9,121,1)" }}
-              variant="contained"
-            >
-              Sign-up
-            </Button>
+          <Grid>
+          <Box sx={{ marginLeft: "auto"}}>
+          {user && <h3>Hi {user}</h3>}
           </Box>
-        </Grid>*/}
+          </Grid>
+            {user && <Button
+              sx={{ marginLeft:'auto', justifyContent: "flex-end", background: "red", color: red[50] }}
+              variant="contained"
+              onClick={logout}
+            >
+              Logout
+            </Button>}
+            {!user && null}
+
         {/*<IconButton
         sx={{ marginLeft: "auto", color: "white" }}
         onClick={() => setOpen(!open)}

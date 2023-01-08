@@ -108,19 +108,19 @@ class CreateUserComponent extends Component {
         {/* <button className='btn btn-primary' onClick={this.userTable}>
           Back
         </button> */}
-        <img
+        <img alt=""
           src='../img/Ellipse.png'
           className='z-20 animate-ping w-6 absolute left-24 top-56'
         />
-        <img
+        <img alt=""
           src='../img/Ellipse.png'
           className='z-20 animate-ping w-6 absolute right-96 top-36'
         />
-        <img
+        <img alt=""
           src='../img/Ellipse.png'
           className='z-20 animate-ping w-6 absolute left-64 bottom-24'
         />
-        <img
+        <img alt=""
           src='../img/Ellipse.png'
           className='z-20 animate-ping w-6 absolute right-40 top-64'
         />

@@ -15,6 +15,7 @@ import { cyan, amber, red } from '@mui/material/colors';
 import DialogActions from '@mui/material/DialogActions';
 import IconButton from '@mui/material/IconButton';
 
+
 const StyledTableCell = styled(TableCell)(({ theme }) => ({
   [`&.${tableCellClasses.head}`]: {
     backgroundColor: theme.palette.common.black,
@@ -64,6 +65,7 @@ class ListUserComponent extends Component {
 
     this.state = {
       users: [],
+      open: false,
     };
     this.addUser = this.addUser.bind(this);
     this.editUser = this.editUser.bind(this);
@@ -83,7 +85,16 @@ class ListUserComponent extends Component {
   editUser(id) {
     this.props.history.push(`/add-user/${id}`);
   }
-
+  handleClickOpen = () => {
+    this.setState({
+      open:this.state(true)
+    });
+  }
+  handleClose  = () => {
+    this.setState({
+      open:this.state(false)
+    });
+  }
   componentDidMount() {
     UserService.getUsers().then((res) => {
       if (res.data == null) {
@@ -122,7 +133,6 @@ class ListUserComponent extends Component {
                 <StyledTableCell align="center">User Years</StyledTableCell>
                 <StyledTableCell align="center">User Level</StyledTableCell>
                 <StyledTableCell align="center">Actions</StyledTableCell>
-              
               </TableRow>
             </TableHead>
             <TableBody>
@@ -136,19 +146,19 @@ class ListUserComponent extends Component {
                 <StyledTableCell align="center">{user.Years}</StyledTableCell>
                 <StyledTableCell align="center">{user.Level}</StyledTableCell>
             <DialogActions style={{ justifyContent: "space-evenly" }}>
-              <ColorButtonamber
+              <ColorButtonamber size="small"
                 onClick={() => this.editUser(user.id)}
               >
               <EditTwoToneIcon />
               </ColorButtonamber>
-              <ColorButton
+              <ColorButton size="small"
               onClick={() => this.viewUser(user.id)}>
               <RemoveRedEyeTwoToneIcon />
               </ColorButton>
-              <ColorButtonred 
+              <ColorButtonred size="small"
               onClick={() => this.deleteUser(user.id)}>
               <DeleteForeverTwoToneIcon />
-              </ColorButtonred >
+              </ColorButtonred>
               </DialogActions>
               </StyledTableRow>
             ))}

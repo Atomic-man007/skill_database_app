@@ -21,19 +21,19 @@ class ViewUserComponent extends Component {
   render() {
     return (
       <div className='flex h-screen bg-gradient-to-r from-sky-400 to-indigo-400 pb-4 '>
-        <img
+        <img alt=""
           src='../img/Ellipse.png'
           className='z-20 animate-ping w-6 absolute left-24 top-56'
         />
-        <img
+        <img alt=""
           src='../img/Ellipse.png'
           className='z-20 animate-ping w-6 absolute right-96 top-36'
         />
-        <img
+        <img alt=""
           src='../img/Ellipse.png'
           className='z-20 animate-ping w-6 absolute left-64 bottom-24'
         />
-        <img
+        <img alt=""
           src='../img/Ellipse.png'
           className='z-20 animate-ping w-6 absolute right-40 top-64'
         />
