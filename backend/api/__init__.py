@@ -1,6 +1,6 @@
 import json
 
-from flask_cors import CORS
+from flask_cors import CORS, cross_origin
 from flask import Flask, render_template, request, jsonify
 from pymongo import MongoClient
 from bson.objectid import ObjectId
@@ -46,6 +46,7 @@ def after_request(response):
     return response
 
 @app.route('/users', methods=['POST', 'GET'])
+@cross_origin()
 def data():
     
     # POST a data to database
@@ -97,6 +98,7 @@ def data():
         return jsonify(dataJson)
 
 @app.route('/users/<string:id>', methods=['GET', 'DELETE', 'PUT'])
+@cross_origin()
 def onedata(id):
 
     # GET a specific data by id
@@ -151,6 +153,7 @@ def onedata(id):
         return jsonify({'status': 'Data id: ' + id + ' is updated!'})
 
 @app.route('/all_users', methods=['GET', 'POST'])
+@cross_origin()
 def fetch_all():
     allData = database['users'].find()
     # all = [i for i in x]

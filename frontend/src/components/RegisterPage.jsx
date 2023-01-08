@@ -27,6 +27,12 @@ const RegisterPage = () => {
         username,
         email,
         password,
+      },{
+        headers: {
+          'Content-Type': 'application/json',
+          "Access-Control-Allow-Origin": "*",
+          Authorization : `Bearer ${localStorage.getItem("token")}`
+          }
       });
       // const user = resp.data.user.username;
       window.location.href = "/login";

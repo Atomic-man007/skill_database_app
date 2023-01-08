@@ -157,3 +157,74 @@
 08-Jan-23 13:38:31 - WARNING -  * Debugger is active!
 08-Jan-23 13:38:31 - INFO -  * Debugger PIN: 587-542-207
 08-Jan-23 13:39:53 - INFO - 192.168.0.118 - - [08/Jan/2023 13:39:53] "POST /api/register HTTP/1.1" 200 -
+08-Jan-23 13:59:58 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\gunicorn-cfg.py', reloading
+08-Jan-23 13:59:59 - INFO -  * Restarting with watchdog (windowsapi)
+08-Jan-23 14:00:02 - WARNING -  * Debugger is active!
+08-Jan-23 14:00:02 - INFO -  * Debugger PIN: 587-542-207
+08-Jan-23 14:08:33 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\flask\\templating.py', reloading
+08-Jan-23 14:08:33 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\jinja2\\__init__.py', reloading
+08-Jan-23 14:08:33 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\jinja2\\environment.py', reloading
+08-Jan-23 14:08:34 - INFO -  * Restarting with watchdog (windowsapi)
+08-Jan-23 14:08:41 - WARNING -  * Debugger is active!
+08-Jan-23 14:08:41 - INFO -  * Debugger PIN: 587-542-207
+08-Jan-23 14:08:49 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\flask\\app.py', reloading
+08-Jan-23 14:08:49 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\flask\\scaffold.py', reloading
+08-Jan-23 14:08:49 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\flask\\sessions.py', reloading
+08-Jan-23 14:08:49 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\flask\\json\\tag.py', reloading
+08-Jan-23 14:08:49 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\flask\\config.py', reloading
+08-Jan-23 14:08:49 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\pymongo\\__init__.py', reloading
+08-Jan-23 14:08:50 - INFO -  * Restarting with watchdog (windowsapi)
+08-Jan-23 14:08:53 - WARNING -  * Debugger is active!
+08-Jan-23 14:08:53 - INFO -  * Debugger PIN: 587-542-207
+08-Jan-23 14:09:02 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 14:09:02 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 14:09:02 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 14:09:02 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 14:09:03 - INFO -  * Restarting with watchdog (windowsapi)
+08-Jan-23 14:09:06 - WARNING -  * Debugger is active!
+08-Jan-23 14:09:06 - INFO -  * Debugger PIN: 587-542-207
+08-Jan-23 14:09:06 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 14:09:06 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 14:09:06 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 14:09:08 - INFO -  * Restarting with watchdog (windowsapi)
+08-Jan-23 14:09:10 - WARNING -  * Debugger is active!
+08-Jan-23 14:09:10 - INFO -  * Debugger PIN: 587-542-207
+08-Jan-23 14:10:27 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\flask\\json\\__init__.py', reloading
+08-Jan-23 14:10:27 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 14:10:27 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 14:10:27 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 14:10:27 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 14:10:28 - INFO -  * Restarting with watchdog (windowsapi)
+08-Jan-23 14:10:31 - WARNING -  * Debugger is active!
+08-Jan-23 14:10:31 - INFO -  * Debugger PIN: 587-542-207
+08-Jan-23 14:10:33 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 14:10:33 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 14:10:33 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 14:10:33 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 14:10:34 - INFO -  * Restarting with watchdog (windowsapi)
+08-Jan-23 14:10:37 - WARNING -  * Debugger is active!
+08-Jan-23 14:10:37 - INFO -  * Debugger PIN: 587-542-207
+08-Jan-23 14:10:42 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\jwt\\__init__.py', reloading
+08-Jan-23 14:10:44 - INFO -  * Restarting with watchdog (windowsapi)
+08-Jan-23 14:10:47 - WARNING -  * Debugger is active!
+08-Jan-23 14:10:47 - INFO -  * Debugger PIN: 587-542-207
+08-Jan-23 14:12:46 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\tests.py', reloading
+08-Jan-23 14:12:46 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\models.py', reloading
+08-Jan-23 14:12:46 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\models.py', reloading
+08-Jan-23 14:12:46 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\config.py', reloading
+08-Jan-23 14:12:47 - INFO -  * Restarting with watchdog (windowsapi)
+08-Jan-23 14:12:50 - WARNING -  * Debugger is active!
+08-Jan-23 14:12:50 - INFO -  * Debugger PIN: 587-542-207
+08-Jan-23 14:13:42 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\flask\\testing.py', reloading
+08-Jan-23 14:13:42 - INFO -  * Detected change in 'C:\\Users\\srika\\anaconda3\\envs\\gpuone\\Lib\\site-packages\\werkzeug\\test.py', reloading
+08-Jan-23 14:13:43 - INFO -  * Restarting with watchdog (windowsapi)
+08-Jan-23 14:13:46 - WARNING -  * Debugger is active!
+08-Jan-23 14:13:46 - INFO -  * Debugger PIN: 587-542-207
+08-Jan-23 14:17:28 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 14:17:28 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 14:17:28 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 14:17:28 - INFO -  * Detected change in 'C:\\Users\\srika\\Desktop\\Desktop\\ES\\skill_database_app\\backend\\api\\__init__.py', reloading
+08-Jan-23 14:17:29 - INFO -  * Restarting with watchdog (windowsapi)
+08-Jan-23 14:17:35 - WARNING -  * Debugger is active!
+08-Jan-23 14:17:35 - INFO -  * Debugger PIN: 587-542-207
+08-Jan-23 14:19:31 - INFO - 192.168.0.118 - - [08/Jan/2023 14:19:31] "POST /api/register HTTP/1.1" 200 -
