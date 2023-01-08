@@ -32,7 +32,7 @@ const LoginPage = () => {
       });
       localStorage.setItem('token', res.data.token);
       localStorage.setItem('user', res.data.user.username);
-      window.location.href = "/users";
+      window.location.href = "/";
     } catch (error) {
       if (error.response.status === 401) {
         alert("Invalid credentials");
